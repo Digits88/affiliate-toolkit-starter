@@ -1,0 +1,39 @@
+ .atkp-credits {
+	float: right;
+	width: 280px;
+	background: #fff;
+
+	position: relative;
+	float:right;
+	margin-right: 20px;
+}
+.atkp-credits .inner {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.atkp-credits h3 {
+	font-size: 14px;
+	line-height: 1.4;
+	margin: 0;
+	padding: 8px 12px;
+	border-bottom: 1px solid #eee;
+}
+.atkp-credits .atkp-link {
+	font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+	font-style: italic;
+	padding-bottom: 10px;
+	margin: 0;
+}
+.atkp-credits .atkp-link a {
+	vertical-align: middle;
+	padding: 5px 0 0 4px;
+}
+.atkp-credits .atkp-link a {
+	vertical-align: middle;
+	padding: 5px 0 0 4px;
+}
+
+.wrap {
+     float: left !important;   
+}
+

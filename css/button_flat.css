@@ -1,0 +1,61 @@
+.atkp-button {
+  margin: 0 auto;
+  font-size: 15px;
+  padding: 4px 2rem;
+  display:inline-block;
+  background-color: #FFB22A;
+  border: 1px solid transparent;
+  color: #ffffff !important;
+  font-weight: 300;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+      text-decoration: none  !important;
+    
+  
+}
+
+.atkp-button:hover {
+  background-color: #ffffff;
+  color: #FFB22A !important;
+  border-color: #FFB22A;
+      text-decoration: none;
+}
+
+.atkp-smallbox .atkp-button {
+    padding: 4px 0;
+    text-align: center;
+}
+
+.atkp-secondbutton {
+  margin: 0 auto;
+  font-size: 15px;
+  padding: 4px 2rem;
+  display:inline-block;
+  background-color: #FFB22A;
+  border: 1px solid transparent;
+  color: #ffffff !important;
+  font-weight: 300;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+      text-decoration: none  !important;
+    
+  
+}
+
+.atkp-secondbutton:hover {
+  background-color: #ffffff;
+  color: #FFB22A !important;
+  border-color: #FFB22A;
+      text-decoration: none;
+}
+
+.atkp-smallbox .atkp-secondbutton {
+    padding: 4px 0;
+    text-align: center;
+}

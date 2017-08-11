@@ -1,0 +1,97 @@
+.atkp-button {
+	-moz-box-shadow:inset 0 1px 0 0 %background2_color%;
+	-webkit-box-shadow:inset 0 1px 0 0 %background2_color%;
+	box-shadow:inset 0px 1px 0px 0px %background2_color% !important;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, %background_color%), color-stop(1, %background2_color%));
+	background:-moz-linear-gradient(top, %background_color% 5%, %background2_color% 100%);
+	background:-webkit-linear-gradient(top, %background_color% 5%, %background2_color% 100%);
+	background:-o-linear-gradient(top, %background_color% 5%, %background2_color% 100%);
+	background:-ms-linear-gradient(top, %background_color% 5%, %background2_color% 100%);
+	background:linear-gradient(to bottom, %background_color% 5%, %background2_color% 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='%background_color%', endColorstr='%background2_color%',GradientType=0);
+	background-color:%background_color%;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid %border_color% !important;
+	display:inline-block;
+	cursor:pointer;
+	color:%foreground_color% !important;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none !important;
+   
+}
+
+ .atkp-button:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, %background2_color%), color-stop(1, %background_color%));
+	background:-moz-linear-gradient(top, %background2_color% 5%, %background_color% 100%);
+	background:-webkit-linear-gradient(top, %background2_color% 5%, %background_color% 100%);
+	background:-o-linear-gradient(top, %background2_color% 5%, %background_color% 100%);
+	background:-ms-linear-gradient(top, %background2_color% 5%, %background_color% 100%);
+	background:linear-gradient(to bottom, %background2_color% 5%, %background_color% 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='%background2_color%', endColorstr='%background_color%',GradientType=0);
+	background-color:%background2_color%;
+	text-decoration: none !important;
+}
+ .atkp-button:active {
+	position:relative;
+	top:1px;
+}
+
+.atkp-box {
+    background-image: linear-gradient(to top,#fafafa 0,#fdfdfd 20%,#fff 60%);
+}
+
+.atkp-secondbutton {
+	-moz-box-shadow:inset 0 1px 0 0 %background2_color_2%;
+	-webkit-box-shadow:inset 0 1px 0 0 %background2_color_2%;
+	box-shadow:inset 0px 1px 0px 0px %background2_color_2% !important;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, %background_color_2%), color-stop(1, %background2_color_2%));
+	background:-moz-linear-gradient(top, %background_color_2% 5%, %background2_color_2% 100%);
+	background:-webkit-linear-gradient(top, %background_color_2% 5%, %background2_color_2% 100%);
+	background:-o-linear-gradient(top, %background_color_2% 5%, %background2_color_2% 100%);
+	background:-ms-linear-gradient(top, %background_color_2% 5%, %background2_color_2% 100%);
+	background:linear-gradient(to bottom, %background_color_2% 5%, %background2_color_2% 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='%background_color_2%', endColorstr='%background2_color_2%',GradientType=0);
+	background-color:%background_color_2%;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid %border_color_2% !important;
+	display:inline-block;
+	cursor:pointer;
+	color:%foreground_color_2% !important;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none !important;
+   
+}
+
+ .atkp-secondbutton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, %background2_color_2%), color-stop(1, %background_color_2%));
+	background:-moz-linear-gradient(top, %background2_color_2% 5%, %background_color_2% 100%);
+	background:-webkit-linear-gradient(top, %background2_color_2% 5%, %background_color_2% 100%);
+	background:-o-linear-gradient(top, %background2_color_2% 5%, %background_color_2% 100%);
+	background:-ms-linear-gradient(top, %background2_color_2% 5%, %background_color_2% 100%);
+	background:linear-gradient(to bottom, %background2_color_2% 5%, %background_color_2% 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='%background2_color_2%', endColorstr='%background_color_2%',GradientType=0);
+	background-color:%background2_color_2%;
+	text-decoration: none !important;
+}
+ .atkp-secondbutton:active {
+	position:relative;
+	top:1px;
+}

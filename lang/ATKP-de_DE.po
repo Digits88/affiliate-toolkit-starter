@@ -1,0 +1,4200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Affiliate Toolkit\n"
+"POT-Creation-Date: 2017-04-08 16:29+0200\n"
+"PO-Revision-Date: 2017-04-08 16:30+0200\n"
+"Last-Translator: Christof Servit <office@servit.biz>\n"
+"Language-Team: Christof Servit <office@servit.biz>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: affiliate-toolkit-compatibility.php:20
+#: affiliate-toolkit-compatibility.php:21
+#: includes/atkp_settings_advanced.php:165
+msgid "Compatibility"
+msgstr "Kompatibilität"
+
+#: affiliate-toolkit-compatibility.php:33 affiliate-toolkit-settings.php:43
+#: affiliate-toolkit-tools.php:33 includes/atkp_compatibility_asa1.php:22
+#: includes/atkp_settings_advanced.php:20
+#: includes/atkp_settings_compatibilitymode.php:22
+#: includes/atkp_settings_display.php:33 includes/atkp_settings_toolkit.php:39
+#: includes/atkp_tools_debug.php:20
+msgid "You do not have sufficient permissions to access this page"
+msgstr "Du hast nicht genug Berechtigungen um diese Seite zu öffnen."
+
+#: affiliate-toolkit-compatibility.php:72 affiliate-toolkit-settings.php:85
+#: affiliate-toolkit-tools.php:72
+msgid "Affiliate Toolkit Starter"
+msgstr ""
+
+#: affiliate-toolkit-compatibility.php:76 affiliate-toolkit-settings.php:89
+#: affiliate-toolkit-tools.php:76
+msgid "Do you need help?"
+msgstr "Benötigst du Hilfe?"
+
+#: affiliate-toolkit-compatibility.php:77 affiliate-toolkit-settings.php:90
+#: affiliate-toolkit-tools.php:77
+msgid ""
+"If you have problems with our plugin, take a look first at our <a href="
+"\"%link_help%\" target=\"_blank\">Help Center</a>. If you need further "
+"assistance, please <a href=\"%link_support%\" target=\"_blank\">contact us</"
+"a>."
+msgstr ""
+"Falls du Probleme mit unserem Plugin hast, schau zuerst in unser <a href="
+"\"%link_help%\" target=\"_blank\">Hilfe Center</a>. Benötigst du mehr Hilfe, "
+"bitte <a href=\"%link_support%\" target=\"_blank\">kontaktiere uns</a>."
+
+#: affiliate-toolkit-compatibility.php:79 affiliate-toolkit-settings.php:92
+#: affiliate-toolkit-tools.php:79
+msgid "Like the plugin?"
+msgstr "Gefällt dir das Plugin?"
+
+#: affiliate-toolkit-compatibility.php:82 affiliate-toolkit-settings.php:95
+#: affiliate-toolkit-tools.php:82
+msgid ""
+"Add your review and recommend it further. As an affiliate you can order even "
+"make money! More information can be found <a href=\"%link_affiliate%\" "
+"target=\"_blank\">here</a>!"
+msgstr ""
+"Schreibe eine Bewertung und empfehle es weiter. Als Affiliate-Partner kannst "
+"du mit jeder Bestellung Geld verdienen! Mehr Informationen findest du <a "
+"href=\"%link_affiliate%\" target=\"_blank\">hier</a>!"
+
+#: affiliate-toolkit-compatibility.php:85 affiliate-toolkit-settings.php:98
+#: affiliate-toolkit-tools.php:85
+msgid ""
+"We look forward contributing any feedback to improve the plugin. Send us "
+"your praise or your criticism simply our <a href=\"%link_contact%\" target="
+"\"_blank\">contact form</a>."
+msgstr ""
+"WIr freuen uns über jedes Feedback um unser Plugin zu erweitern. Sende uns "
+"dein Lob oder deine Kritik einfach per <a href=\"%link_contact%\" target="
+"\"_blank\">Kontaktformular</a>."
+
+#: affiliate-toolkit-settings.php:19 affiliate-toolkit-settings.php:20
+#: includes/atkp_tools_debug.php:173
+msgid "Affiliate Toolkit"
+msgstr "Affiliate Toolkit"
+
+#: affiliate-toolkit-settings.php:30 affiliate-toolkit-settings.php:31
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: affiliate-toolkit-tools.php:20 affiliate-toolkit-tools.php:21
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: affiliate-toolkit.php:56
+msgid "Basic Settings"
+msgstr "Basis Einstellungen"
+
+#: affiliate-toolkit.php:57
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: affiliate-toolkit.php:58
+msgid "Display Settings"
+msgstr "Anzeige"
+
+#: affiliate-toolkit.php:65 includes/atkp_compatibility_asa1.php:100
+#: includes/atkp_settings_compatibilitymode.php:98
+msgid "Amazon Simple Admin 1"
+msgstr "Amazon Simple Admin 1"
+
+#: affiliate-toolkit.php:72
+msgid "Debug"
+msgstr "Debug"
+
+#: includes/atkp_basics.php:30
+msgid "This page uses Affiliate Toolkit"
+msgstr "Diese Seite verwendet das Affiliate Toolkit"
+
+#: includes/atkp_basics.php:151
+#, php-format
+msgid ""
+"<span style=\"font-weight:bold\">affiliate-toolkit:</span> cronjob is not "
+"running. Check the <a href=\"%s\">settings page</a>."
+msgstr ""
+"<span style=\"font-weight:bold\">affiliate-toolkit:</span> Cronjob läuft "
+"nicht. Überprüfe bitte die <a href=\"%s\">Einstellungen</a>."
+
+#: includes/atkp_basics.php:481
+#, php-format
+msgid "Cronjob next execution: %s %s"
+msgstr "Nächste Ausführung des Cronjobs: %s %s"
+
+#: includes/atkp_basics.php:496
+msgid "cronjob is not running! Click the \"Save Changes\" button."
+msgstr "Cronjob läuft nicht! Bitte klicke auf \"Änderungen speichern\"."
+
+#: includes/atkp_basics.php:507
+#, php-format
+msgid "%s years"
+msgstr "%s Jahre"
+
+#: includes/atkp_basics.php:508
+#, php-format
+msgid "%s months"
+msgstr "%s Monate"
+
+#: includes/atkp_basics.php:509
+#, php-format
+msgid "%s weeks"
+msgstr "%s Wochen"
+
+#: includes/atkp_basics.php:510
+#, php-format
+msgid "%s days"
+msgstr "%s Tage"
+
+#: includes/atkp_basics.php:511
+#, php-format
+msgid "%s hours"
+msgstr "%s Stunden"
+
+#: includes/atkp_basics.php:512
+#, php-format
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+#: includes/atkp_basics.php:513
+#, php-format
+msgid "%s seconds"
+msgstr "%s Sekunden"
+
+#: includes/atkp_basics.php:517
+#, php-format
+msgid "%s year"
+msgstr "%s Jahr"
+
+#: includes/atkp_basics.php:518
+#, php-format
+msgid "%s month"
+msgstr "%s Monat"
+
+#: includes/atkp_basics.php:519
+#, php-format
+msgid "%s week"
+msgstr "%s Woche"
+
+#: includes/atkp_basics.php:520
+#, php-format
+msgid "%s day"
+msgstr "%s Tag"
+
+#: includes/atkp_basics.php:521
+#, php-format
+msgid "%s hour"
+msgstr "%s Stunde"
+
+#: includes/atkp_basics.php:522
+#, php-format
+msgid "%s minute"
+msgstr "%s Minute"
+
+#: includes/atkp_basics.php:523
+#, php-format
+msgid "%s second"
+msgstr "%s Sekunde"
+
+#: includes/atkp_basics.php:527
+msgid "now"
+msgstr "jetzt"
+
+#: includes/atkp_basics.php:919
+msgid "Good reasons for a upgrade!"
+msgstr "Gute Gründe für ein Upgrade!"
+
+#: includes/atkp_compatibility_asa1.php:93
+#: includes/atkp_settings_compatibilitymode.php:91
+msgid "Affiliate Toolkit - Compatibility mode"
+msgstr "Affiliate Toolkit - Kompatibilitätsmodus"
+
+#: includes/atkp_compatibility_asa1.php:110
+#: includes/atkp_settings_compatibilitymode.php:108
+msgid "Activate Compatibility mode"
+msgstr "Kompatibilitätsmodus aktivieren"
+
+#: includes/atkp_compatibility_asa1.php:118
+#: includes/atkp_settings_compatibilitymode.php:116
+msgid "Shop (default)"
+msgstr "Shop (Standard)"
+
+#: includes/atkp_compatibility_asa1.php:149
+msgid "Product status (default)"
+msgstr "Produkstatus (Standard)"
+
+#: includes/atkp_compatibility_asa1.php:157
+msgid "Publish"
+msgstr "Veröffentlicht"
+
+#: includes/atkp_compatibility_asa1.php:158
+msgid "Draft"
+msgstr "Entwurf"
+
+#: includes/atkp_compatibility_asa1.php:182
+#: includes/atkp_settings_compatibilitymode.php:165
+msgid "Import all Collection (not only used)"
+msgstr "Alle Kollektions importieren (nicht nur in Beiträgen verwendete)"
+
+#: includes/atkp_compatibility_asa1.php:190
+#: includes/atkp_settings_compatibilitymode.php:173
+msgid "ASA Template mapping"
+msgstr "ASA Vorlagenverknüpfung"
+
+#: includes/atkp_compatibility_asa1.php:202
+#: includes/atkp_settings_compatibilitymode.php:185
+#: includes/atkp_shortcode_generator.php:382
+#: includes/atkp_shortcode_generator.php:465
+#: includes/atkp_shortcode_generator2.php:571
+#: includes/atkp_shortcode_generator2.php:634 includes/atkp_widget.php:200
+msgid "default"
+msgstr "Standard"
+
+#: includes/atkp_compatibility_asa1.php:204
+#: includes/atkp_settings_compatibilitymode.php:187
+#: includes/atkp_shortcode_generator.php:384
+#: includes/atkp_shortcode_generator2.php:573
+msgid "bestseller"
+msgstr "Bestseller"
+
+#: includes/atkp_compatibility_asa1.php:205
+#: includes/atkp_settings_compatibilitymode.php:188
+#: includes/atkp_shortcode_generator.php:385
+#: includes/atkp_shortcode_generator2.php:574
+msgid "wide"
+msgstr "Volle Breite"
+
+#: includes/atkp_compatibility_asa1.php:206
+#: includes/atkp_settings_compatibilitymode.php:189
+#: includes/atkp_shortcode_generator.php:386
+#: includes/atkp_shortcode_generator2.php:575
+msgid "secondwide"
+msgstr "Volle Breite (ohne Beschreibung)"
+
+#: includes/atkp_compatibility_asa1.php:207
+#: includes/atkp_settings_compatibilitymode.php:190
+#: includes/atkp_shortcode_generator.php:387
+#: includes/atkp_shortcode_generator2.php:576
+msgid "box"
+msgstr "Box"
+
+#: includes/atkp_compatibility_asa1.php:230
+#: includes/atkp_settings_compatibilitymode.php:213
+msgid "Last import result"
+msgstr "Letzter Import"
+
+#: includes/atkp_compatibility_asa1.php:246
+#: includes/atkp_settings_compatibilitymode.php:229
+msgid ""
+"NOTE: When the compatibility mode is enabled, all posts and pages are "
+"analyzed. The products and lists are automatically created. This can take "
+"(depending on size) several minutes to complete."
+msgstr ""
+"Notiz: Wenn der Kompatibilitätsmodus aktiviert ist, werden alle Beiträge und "
+"Seiten analysiert. Die Produkte und Listen werden dabei automatisch "
+"angelegt. Dies kann (je nach Größe) einige Minuten in Anspruch nehmen."
+
+#: includes/atkp_cronjob.php:26 includes/atkp_settings_toolkit.php:131
+msgid "1 Hour"
+msgstr "1 Stunde"
+
+#: includes/atkp_cronjob.php:31 includes/atkp_settings_toolkit.php:132
+msgid "6 Hours"
+msgstr "6 Stunden"
+
+#: includes/atkp_cronjob.php:36 includes/atkp_settings_toolkit.php:133
+msgid "12 Hours"
+msgstr "12 Stunden"
+
+#: includes/atkp_cronjob.php:41 includes/atkp_settings_toolkit.php:134
+msgid "1 Day"
+msgstr "1 Tag"
+
+#: includes/atkp_cronjob.php:46 includes/atkp_settings_toolkit.php:135
+msgid "3 Days"
+msgstr "3 Tage"
+
+#: includes/atkp_cronjob.php:51 includes/atkp_settings_toolkit.php:136
+msgid "1 Week"
+msgstr "1 Woche"
+
+#: includes/atkp_cronjob.php:178
+msgid "Affiliate Toolkit Report"
+msgstr "Affiliate Toolkit Bericht"
+
+#: includes/atkp_cronjob.php:178
+msgid "Following messages are currently in your records: "
+msgstr "Folgende Nachrichten befinden sich aktuell in deinen Daten:"
+
+#: includes/atkp_cronjob.php:554
+msgid "saleprice is empty"
+msgstr "Verkaufspreis ist leer"
+
+#: includes/atkp_cronjob.php:562
+msgid "product not found: "
+msgstr "Produkt wurde nicht gefunden: "
+
+#: includes/atkp_cronjob.php:850
+msgid "Topseller"
+msgstr "Bestseller"
+
+#: includes/atkp_cronjob.php:853
+msgid "Newreleases"
+msgstr "Neuerscheinungen"
+
+#: includes/atkp_cronjob.php:856
+msgid "Search for "
+msgstr "Suchen nach"
+
+#: includes/atkp_cronjob.php:856
+msgid " order by "
+msgstr " sortieren nach "
+
+#: includes/atkp_cronjob.php:860
+msgid "Extended Search"
+msgstr "Erweiterte Suche"
+
+#: includes/atkp_cronjob.php:863
+msgid "Similarity Products"
+msgstr "Ähnliche Produkte"
+
+#: includes/atkp_cronjob.php:863
+msgid " for "
+msgstr " für "
+
+#: includes/atkp_endpoints.php:492 includes/atkp_posttypes_product.php:34
+msgid "Manual product"
+msgstr "Manuelles Produkt"
+
+#: includes/atkp_endpoints.php:494 includes/atkp_endpoints.php:506
+#: includes/atkp_posttypes_list.php:30 includes/atkp_posttypes_list.php:147
+#: includes/atkp_posttypes_product.php:36
+#: includes/atkp_posttypes_product.php:295 includes/atkp_posttypes_shop.php:96
+msgid "Shop"
+msgstr "Shop"
+
+#: includes/atkp_endpoints.php:504 includes/atkp_posttypes_list.php:28
+#: includes/atkp_posttypes_list.php:155
+#: includes/atkp_shortcode_generator2.php:469
+msgid "Manual list"
+msgstr "Manuelle Liste"
+
+#: includes/atkp_output.php:262
+msgid "Advertising"
+msgstr "Werbung"
+
+#: includes/atkp_posttypes_list.php:18 includes/atkp_posttypes_product.php:25
+#: includes/atkp_posttypes_shop.php:20 includes/atkp_posttypes_shop.php:213
+#: includes/atkp_tools_debug.php:81
+msgid "Status"
+msgstr "Status"
+
+#: includes/atkp_posttypes_list.php:38 includes/atkp_posttypes_product.php:41
+msgid "%refresh_date% at %refresh_time%"
+msgstr "%refresh_date% um %refresh_time%"
+
+#: includes/atkp_posttypes_list.php:43 includes/atkp_posttypes_product.php:46
+msgid "Updated on"
+msgstr "Aktualisiert am"
+
+#: includes/atkp_posttypes_list.php:49 includes/atkp_posttypes_list.php:588
+#: includes/atkp_shortcode_generator2.php:500
+msgid "Category - Best Seller"
+msgstr "Kategorie - Bestseller"
+
+#: includes/atkp_posttypes_list.php:50 includes/atkp_posttypes_list.php:209
+#: includes/atkp_posttypes_list.php:590 includes/atkp_posttypes_product.php:410
+#: includes/atkp_posttypes_product.php:426
+#: includes/atkp_shortcode_generator2.php:392
+#: includes/atkp_shortcode_generator2.php:434
+#: includes/atkp_shortcode_generator2.php:501
+msgid "Search"
+msgstr "Suchen"
+
+#: includes/atkp_posttypes_list.php:57 includes/atkp_posttypes_product.php:54
+msgid "Type"
+msgstr "Typ"
+
+#: includes/atkp_posttypes_list.php:64 includes/atkp_posttypes_product.php:67
+msgid "Message"
+msgstr "Nachricht"
+
+#: includes/atkp_posttypes_list.php:74 includes/atkp_posttypes_list.php:79
+msgid "Lists"
+msgstr "Listen"
+
+#: includes/atkp_posttypes_list.php:75
+msgid "List"
+msgstr "Liste"
+
+#: includes/atkp_posttypes_list.php:76
+msgid "Add New List"
+msgstr "Neue Liste erstellen"
+
+#: includes/atkp_posttypes_list.php:77
+msgid "Edit List"
+msgstr "Liste bearbeiten"
+
+#: includes/atkp_posttypes_list.php:78
+msgid "New List"
+msgstr "Neue Liste"
+
+#: includes/atkp_posttypes_list.php:80
+msgid "View List"
+msgstr "Liste anzeigen"
+
+#: includes/atkp_posttypes_list.php:81
+msgid "Search Lists"
+msgstr "Liste suchen"
+
+#: includes/atkp_posttypes_list.php:82 includes/atkp_posttypes_shop.php:103
+msgid "No lists found"
+msgstr "Keine Liste gefunden"
+
+#: includes/atkp_posttypes_list.php:83 includes/atkp_posttypes_shop.php:104
+msgid "No lists found in the Trash"
+msgstr "Keine Liste im Papierkorb"
+
+#: includes/atkp_posttypes_list.php:85
+msgid "AT Lists"
+msgstr "AT Listen"
+
+#: includes/atkp_posttypes_list.php:110 includes/atkp_posttypes_product.php:265
+#: includes/atkp_posttypes_shop.php:133
+msgid "Shop Information"
+msgstr "Shopinformationen"
+
+#: includes/atkp_posttypes_list.php:119
+msgid "List Information"
+msgstr "Listeninformation"
+
+#: includes/atkp_posttypes_list.php:128
+msgid "List Preview"
+msgstr "Listenvorschau"
+
+#: includes/atkp_posttypes_list.php:193
+msgid "List updated on %refresh_date% at %refresh_time%"
+msgstr "Liste aktualisiert am %refresh_date% um %refresh_time%"
+
+#: includes/atkp_posttypes_list.php:209 includes/atkp_posttypes_product.php:410
+#: includes/atkp_posttypes_product.php:426
+#: includes/atkp_shortcode_generator2.php:390
+#: includes/atkp_shortcode_generator2.php:432
+#: includes/atkp_shortcode_generator2.php:519
+#: includes/atkp_shortcode_generator2.php:1024
+msgid "Keyword:"
+msgstr "Schlüsselbegriff:"
+
+#: includes/atkp_posttypes_list.php:464
+msgid "no sort"
+msgstr "Keine Sortierung"
+
+#: includes/atkp_posttypes_list.php:578
+msgid "Source"
+msgstr "Quelle"
+
+#: includes/atkp_posttypes_list.php:615
+#: includes/shopproviders/atkp_shop_provider_amazon.php:747
+msgid "BrowseNode"
+msgstr "BrowseNode"
+
+#: includes/atkp_posttypes_list.php:621
+msgid "Search BrowseNode"
+msgstr "BrowseNode suchen"
+
+#: includes/atkp_posttypes_list.php:630
+msgid "Department"
+msgstr "Abteilung"
+
+#: includes/atkp_posttypes_list.php:636
+msgid ""
+"<a href=\"%link_get-amazon-search-department%\" target=\"_blank\">More "
+"information</a>"
+msgstr ""
+"<a href=\"%link_get-amazon-search-department%\" target=\"_blank\">Mehr "
+"Informationen</a>"
+
+#: includes/atkp_posttypes_list.php:641
+msgid "Order by "
+msgstr "Sortieren nach"
+
+#: includes/atkp_posttypes_list.php:653
+msgid "Keyword"
+msgstr "Schlüsselbegriff"
+
+#: includes/atkp_posttypes_list.php:665 includes/atkp_posttypes_list.php:701
+msgid "Limit"
+msgstr "Limit"
+
+#: includes/atkp_posttypes_list.php:723 includes/atkp_posttypes_product.php:123
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/atkp_posttypes_list.php:815
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: includes/atkp_posttypes_list.php:815
+msgid "Remove"
+msgstr "Entfernen"
+
+#: includes/atkp_posttypes_list.php:827
+msgid "Up"
+msgstr "Hoch"
+
+#: includes/atkp_posttypes_list.php:827
+msgid "Down"
+msgstr "Hinunter"
+
+#: includes/atkp_posttypes_list.php:843
+msgid "List URL"
+msgstr "Listen URL"
+
+#: includes/atkp_posttypes_product.php:53
+msgid "Key"
+msgstr "Key"
+
+#: includes/atkp_posttypes_product.php:57
+#: includes/atkp_posttypes_product.php:334
+#: includes/atkp_posttypes_product.php:687 includes/atkp_posttypes_shop.php:465
+#: includes/helper/atkp_template_helper.php:980
+#: includes/shopproviders/atkp_shop_provider_base.php:80
+msgid "Title"
+msgstr "Titel"
+
+#: includes/atkp_posttypes_product.php:59
+#: includes/atkp_posttypes_product.php:333
+#: includes/atkp_posttypes_product.php:697
+#: includes/helper/atkp_template_helper.php:992
+msgid "EAN"
+msgstr "EAN"
+
+#: includes/atkp_posttypes_product.php:61
+#: includes/atkp_posttypes_product.php:332
+msgid "Unique productid"
+msgstr "Eindeutige Produkt-ID"
+
+#: includes/atkp_posttypes_product.php:77
+#: includes/atkp_posttypes_product.php:95
+#: includes/atkp_posttypes_product.php:962
+msgid "Main image"
+msgstr "Hauptbild"
+
+#: includes/atkp_posttypes_product.php:111
+#: includes/atkp_posttypes_product.php:991
+#: includes/atkp_posttypes_product.php:1004
+#: includes/atkp_posttypes_product.php:1016 includes/atkp_posttypes_shop.php:79
+#: includes/atkp_posttypes_shop.php:491 includes/atkp_posttypes_shop.php:509
+msgid "Choose or Upload an Image"
+msgstr "Bild wählen oder hochladen"
+
+#: includes/atkp_posttypes_product.php:112 includes/atkp_posttypes_shop.php:80
+msgid "Use this image"
+msgstr "Dieses Bild verwenden"
+
+#: includes/atkp_posttypes_product.php:122
+#: includes/atkp_posttypes_product.php:127
+msgid "Products"
+msgstr "Produkte"
+
+#: includes/atkp_posttypes_product.php:124
+msgid "Add New Product"
+msgstr "Neues Produkt hinzufügen"
+
+#: includes/atkp_posttypes_product.php:125
+msgid "Edit Product"
+msgstr "Produkt bearbeiten"
+
+#: includes/atkp_posttypes_product.php:126
+msgid "New Product"
+msgstr "Neues Produkt"
+
+#: includes/atkp_posttypes_product.php:128
+#: includes/helper/atkp_template_helper.php:330
+msgid "View Product"
+msgstr "Produkt ansehen"
+
+#: includes/atkp_posttypes_product.php:129
+msgid "Search Products"
+msgstr "Produkte suchen"
+
+#: includes/atkp_posttypes_product.php:130
+msgid "No products found"
+msgstr "Kein Produkt gefunden"
+
+#: includes/atkp_posttypes_product.php:131
+msgid "No products found in the Trash"
+msgstr "Kein Produkt im Papierkorb gefunden"
+
+#: includes/atkp_posttypes_product.php:133
+msgid "AT Products"
+msgstr "AT Produkte"
+
+#: includes/atkp_posttypes_product.php:201
+#, php-format
+msgid "Search %s"
+msgstr "%s durchsuchen"
+
+#: includes/atkp_posttypes_product.php:202
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: includes/atkp_posttypes_product.php:203
+#, php-format
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: includes/atkp_posttypes_product.php:204
+#, php-format
+msgid "Update %s"
+msgstr "%s bearbeiten"
+
+#: includes/atkp_posttypes_product.php:205
+#, php-format
+msgid "Add New %s"
+msgstr "%s hinzufügen"
+
+#: includes/atkp_posttypes_product.php:206
+#, php-format
+msgid "New %s"
+msgstr "%s erstellen"
+
+#: includes/atkp_posttypes_product.php:274
+msgid "Detail Information"
+msgstr "Details"
+
+#: includes/atkp_posttypes_product.php:373
+msgid "Search unique productid"
+msgstr "Eindeutige Produkt-ID suchen"
+
+#: includes/atkp_posttypes_product.php:393
+msgid "Product updated on %refresh_date% at %refresh_time%"
+msgstr "Produkt aktualisiert am %refresh_date% um %refresh_time%"
+
+#: includes/atkp_posttypes_product.php:480
+#: includes/atkp_posttypes_product.php:543
+msgid "View product"
+msgstr "Produkt anzeigen"
+
+#: includes/atkp_posttypes_product.php:560
+#: includes/atkp_posttypes_product.php:1046
+#: includes/atkp_posttypes_product.php:1111
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/atkp_posttypes_product.php:568
+#: includes/atkp_posttypes_product.php:1128
+#: includes/atkp_posttypes_product.php:1137
+#: includes/atkp_posttypes_product.php:1146
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#: includes/atkp_posttypes_product.php:659
+msgid "Product Information"
+msgstr "Produktinformationen"
+
+#: includes/atkp_posttypes_product.php:660
+msgid "Link Information"
+msgstr "Links"
+
+#: includes/atkp_posttypes_product.php:661
+msgid "Review Information"
+msgstr "Bewertungsinformationen"
+
+#: includes/atkp_posttypes_product.php:662
+msgid "Images"
+msgstr "Bilder"
+
+#: includes/atkp_posttypes_product.php:663
+msgid "Price Information"
+msgstr "Preisinformationen"
+
+#: includes/atkp_posttypes_product.php:675
+msgid "Refresh product information on save (overwrite existing data)"
+msgstr "Produktinformationen beim Speichern aktualisieren"
+
+#: includes/atkp_posttypes_product.php:707
+#: includes/helper/atkp_template_helper.php:989
+msgid "ISBN"
+msgstr "ISBN"
+
+#: includes/atkp_posttypes_product.php:718
+msgid "Product group"
+msgstr "Produktgruppe"
+
+#: includes/atkp_posttypes_product.php:728 includes/atkp_udfield.php:100
+#: includes/atkp_udfield.php:107 includes/atkp_udfield.php:108
+#: includes/shopproviders/atkp_shop_provider_amazon.php:764
+msgid "Manufacturer"
+msgstr "Hersteller"
+
+#: includes/atkp_posttypes_product.php:738 includes/atkp_udfield.php:101
+#: includes/shopproviders/atkp_shop_provider_amazon.php:756
+msgid "Author"
+msgstr "Autor"
+
+#: includes/atkp_posttypes_product.php:748
+msgid "Number of pages"
+msgstr "Seitenanzahl"
+
+#: includes/atkp_posttypes_product.php:759 includes/atkp_udfield.php:102
+#: includes/atkp_udfield.php:125 includes/atkp_udfield.php:126
+#: includes/helper/atkp_template_helper.php:995
+#: includes/shopproviders/atkp_shop_provider_amazon.php:757
+msgid "Brand"
+msgstr "Marke"
+
+#: includes/atkp_posttypes_product.php:770
+#: includes/atkp_settings_display.php:305
+#: includes/helper/atkp_template_helper.php:1101
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/atkp_posttypes_product.php:784
+#: includes/atkp_settings_display.php:304
+#: includes/helper/atkp_template_helper.php:1098
+msgid "Features"
+msgstr "Eigenschaften"
+
+#: includes/atkp_posttypes_product.php:812
+msgid ""
+"Refresh \"product url\", \"customer reviews url\" and \"add to cart url\" on "
+"save (overwrite existing data)"
+msgstr ""
+"\"Produktseite URL\", \"Kundenbewertung URL\" und \"Zum Warenkorb hinzufügen "
+"URL\" beim Speichern aktualisieren"
+
+#: includes/atkp_posttypes_product.php:824
+msgid ""
+"Refresh \"product url\", \"customer reviews url\" and \"add to cart url\" "
+"regulary"
+msgstr ""
+"\"Produktseite URL\", \"Kundenbewertung URL\" und \"Zum Warenkorb hinzufügen "
+"URL\" laufend aktualisieren"
+
+#: includes/atkp_posttypes_product.php:831
+#: includes/helper/atkp_template_helper.php:1053
+msgid "Product page URL"
+msgstr "Produktseite URL"
+
+#: includes/atkp_posttypes_product.php:841
+msgid "Add to cart URL"
+msgstr "Warenkorb URL"
+
+#: includes/atkp_posttypes_product.php:851
+#: includes/helper/atkp_template_helper.php:1056
+msgid "Customer Reviews URL"
+msgstr "Kundenbewertung URL"
+
+#: includes/atkp_posttypes_product.php:864
+msgid "Override customer reviews"
+msgstr "Kundenbewertungen übersteuern"
+
+#: includes/atkp_posttypes_product.php:871
+#: includes/helper/atkp_template_helper.php:1059
+msgid "Review URL"
+msgstr "Bewertungs-URL"
+
+#: includes/atkp_posttypes_product.php:891
+msgid "Refresh review information on save (overwrite existing data)"
+msgstr "Bewertungsinformationen beim Speichern aktualisieren"
+
+#: includes/atkp_posttypes_product.php:902
+msgid "Refresh review information regulary"
+msgstr "Bewertungsinformationen laufend aktualisieren"
+
+#: includes/atkp_posttypes_product.php:910
+#: includes/helper/atkp_template_helper.php:1062
+msgid "Rating"
+msgstr "Bewertung"
+
+#: includes/atkp_posttypes_product.php:920
+#: includes/helper/atkp_template_helper.php:1068
+msgid "Review count"
+msgstr "Anzahl der Bewertungen"
+
+#: includes/atkp_posttypes_product.php:940
+msgid "Refresh images on save (overwrite existing data)"
+msgstr "Bilder beim Speichern aktualisieren"
+
+#: includes/atkp_posttypes_product.php:950
+msgid "Refresh images regulary"
+msgstr "Bilder laufend aktualisieren"
+
+#: includes/atkp_posttypes_product.php:985
+#: includes/atkp_posttypes_product.php:1056
+#: includes/atkp_posttypes_product.php:1109
+#: includes/helper/atkp_template_helper.php:1004
+msgid "Small image URL"
+msgstr "Bild klein (URL)"
+
+#: includes/atkp_posttypes_product.php:997
+#: includes/atkp_posttypes_product.php:1066
+#: includes/atkp_posttypes_product.php:1108
+#: includes/helper/atkp_template_helper.php:1007
+msgid "Medium image URL"
+msgstr "Bild mittel (URL)"
+
+#: includes/atkp_posttypes_product.php:1009
+#: includes/atkp_posttypes_product.php:1076
+#: includes/atkp_posttypes_product.php:1110
+#: includes/helper/atkp_template_helper.php:1010
+msgid "Large image URL"
+msgstr "Bild groß (URL)"
+
+#: includes/atkp_posttypes_product.php:1029
+msgid "Add Image"
+msgstr "Bild hinzufügen"
+
+#: includes/atkp_posttypes_product.php:1168
+msgid "Refresh price information on save (overwrite existing data)"
+msgstr "Preisinformationen beim Speichern aktualisieren"
+
+#: includes/atkp_posttypes_product.php:1179
+msgid "Refresh price information regulary"
+msgstr "Preisinformationen laufend aktualisieren"
+
+#: includes/atkp_posttypes_product.php:1186
+#: includes/helper/atkp_template_helper.php:1086
+msgid "Listprice"
+msgstr "Listenpreis"
+
+#: includes/atkp_posttypes_product.php:1200
+#: includes/helper/atkp_template_helper.php:1083
+msgid "Amount saved"
+msgstr "Gespart"
+
+#: includes/atkp_posttypes_product.php:1214
+#: includes/helper/atkp_template_helper.php:1074
+msgid "Percentage saved"
+msgstr "Prozent gespart"
+
+#: includes/atkp_posttypes_product.php:1225
+msgid "Saleprice"
+msgstr "Verkaufspreis"
+
+#: includes/atkp_posttypes_product.php:1238
+#: includes/helper/atkp_template_helper.php:1001
+#: includes/shopproviders/atkp_shop_provider_amazon.php:749
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+#: includes/atkp_posttypes_product.php:1249
+#: includes/helper/atkp_template_helper.php:968
+msgid "Shipping"
+msgstr "Versand"
+
+#: includes/atkp_posttypes_product.php:1262
+#: includes/helper/atkp_template_helper.php:1071
+msgid "Is prime"
+msgstr "Ist Prime"
+
+#: includes/atkp_posttypes_shop.php:27 includes/atkp_posttypes_shop.php:169
+msgid "Connected"
+msgstr "Verbunden"
+
+#: includes/atkp_posttypes_shop.php:29 includes/atkp_posttypes_shop.php:171
+msgid "Disconnected"
+msgstr "Nicht verbunden"
+
+#: includes/atkp_posttypes_shop.php:39
+#, php-format
+msgid "%s rows imported. Last Import: %s"
+msgstr "%s Zeilen importiert. Letzter Import: %s"
+
+#: includes/atkp_posttypes_shop.php:46 includes/atkp_posttypes_shop.php:89
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/atkp_posttypes_shop.php:95 includes/atkp_posttypes_shop.php:100
+#: includes/atkp_posttypes_shop.php:106
+msgid "Shops"
+msgstr "Shops"
+
+#: includes/atkp_posttypes_shop.php:97
+msgid "Add New Shop"
+msgstr "Neuen Shop hinzufügen"
+
+#: includes/atkp_posttypes_shop.php:98
+msgid "Edit Shop"
+msgstr "Shop bearbeiten"
+
+#: includes/atkp_posttypes_shop.php:99
+msgid "New Shop"
+msgstr "Neuer Shop"
+
+#: includes/atkp_posttypes_shop.php:101
+msgid "View Shop"
+msgstr "Shop anzeigen"
+
+#: includes/atkp_posttypes_shop.php:102
+msgid "Search Shops"
+msgstr "Shop suchen"
+
+#: includes/atkp_posttypes_shop.php:158
+msgid "open shop"
+msgstr "Shop öffnen"
+
+#: includes/atkp_posttypes_shop.php:165
+msgid "credentials empty"
+msgstr "Zugangsdaten nicht gesetzt"
+
+#: includes/atkp_posttypes_shop.php:180
+msgid "Data distributor"
+msgstr "Datenlieferant"
+
+#: includes/atkp_posttypes_shop.php:188
+msgid "Subshop"
+msgstr "Untergeordneter Shop"
+
+#: includes/atkp_posttypes_shop.php:213
+msgid "Parent shop"
+msgstr "Übergeordenter Shop"
+
+#: includes/atkp_posttypes_shop.php:260
+msgid "Subshops"
+msgstr "Untergeordnete Shops"
+
+#: includes/atkp_posttypes_shop.php:314
+msgid "Display Shop Logo"
+msgstr "Shop-Logo anzeigen"
+
+#: includes/atkp_posttypes_shop.php:324
+msgid "Tooltip"
+msgstr ""
+
+#: includes/atkp_posttypes_shop.php:335
+msgid "Buy at Button"
+msgstr "\"Kaufen bei\"-Text"
+
+#: includes/atkp_posttypes_shop.php:346
+msgid "Add to Cart Button"
+msgstr "\"In Warenkorb legen\"-Text"
+
+#: includes/atkp_posttypes_shop.php:356
+msgid "Currency sign"
+msgstr "Währungssymbol"
+
+#: includes/atkp_posttypes_shop.php:364
+msgid "&euro; sign"
+msgstr "&euro; Zeichen"
+
+#: includes/atkp_posttypes_shop.php:366
+msgid "EUR"
+msgstr "EUR"
+
+#: includes/atkp_posttypes_shop.php:368
+msgid "&#36; sign"
+msgstr "&#36; Zeichen"
+
+#: includes/atkp_posttypes_shop.php:370
+msgid "USD"
+msgstr "USD"
+
+#: includes/atkp_posttypes_shop.php:372
+msgid "Default"
+msgstr "Standard"
+
+#: includes/atkp_posttypes_shop.php:373
+msgid "Userdefined"
+msgstr "Benutzerdefiniert"
+
+#: includes/atkp_posttypes_shop.php:477
+#: includes/shopproviders/atkp_shop_provider_base.php:92
+msgid "Shop Logo Small"
+msgstr "Shop Logo (klein)"
+
+#: includes/atkp_posttypes_shop.php:499
+#: includes/shopproviders/atkp_shop_provider_base.php:104
+msgid "Shop Logo Large"
+msgstr "Shop Logo (groß)"
+
+#: includes/atkp_posttypes_shop.php:631 includes/atkp_shop.php:32
+#: includes/atkp_shop.php:36 includes/atkp_shop.php:40
+#, php-format
+msgid "Buy now at %s"
+msgstr "Jetzt kaufen bei %s"
+
+#: includes/atkp_settings_advanced.php:40 includes/atkp_settings_display.php:70
+msgid "Affiliate Toolkit - Advanced Settings"
+msgstr "Affiliate Toolkit - Erweiterte Einstellungen"
+
+#: includes/atkp_settings_advanced.php:47
+msgid "Disclaimer settings"
+msgstr "Einstellungen für Haftungsausschluss"
+
+#: includes/atkp_settings_advanced.php:59
+msgid "Show disclaimer"
+msgstr "Haftungsausschluss anzeigen"
+
+#: includes/atkp_settings_advanced.php:62
+msgid ""
+"Amazon advised to include a disclaimer adjacent to the pricing or "
+"availability information."
+msgstr ""
+"Amazon empfiehlt, einen Haftungsausschluss neben dem Preis- oder "
+"Verfügbarkeitsinformationen anzuzeigen."
+
+#: includes/atkp_settings_advanced.php:69
+msgid "Disclaimer text"
+msgstr "Haftungsausschluss"
+
+#: includes/atkp_settings_advanced.php:75
+msgid ""
+"Last updated on %refresh_date% at %refresh_time% - Image source: Amazon "
+"Affiliate Program. All statements without guarantee."
+msgstr ""
+"Zuletzt aktualisiert am %refresh_date% um %refresh_time% . Wir weisen darauf "
+"hin, dass sich hier angezeigte Preise inzwischen geändert haben können. Alle "
+"Angaben ohne Gewähr."
+
+#: includes/atkp_settings_advanced.php:88
+msgid "Links & Buttons"
+msgstr "Links & Buttons"
+
+#: includes/atkp_settings_advanced.php:97
+msgid "Default button typ"
+msgstr "Standard Button-Typ"
+
+#: includes/atkp_settings_advanced.php:105
+#: includes/atkp_shortcode_generator.php:466
+#: includes/atkp_shortcode_generator2.php:635
+msgid "add to cart"
+msgstr "In den Warenkorb legen"
+
+#: includes/atkp_settings_advanced.php:107
+#: includes/atkp_settings_advanced.php:127
+#: includes/atkp_shortcode_generator.php:324
+#: includes/atkp_shortcode_generator.php:467
+#: includes/atkp_shortcode_generator2.php:636
+msgid "link"
+msgstr "Link"
+
+#: includes/atkp_settings_advanced.php:119
+msgid "title link"
+msgstr "Titellink"
+
+#: includes/atkp_settings_advanced.php:142
+msgid "Mark links (*)"
+msgstr "Links markieren (*)"
+
+#: includes/atkp_settings_advanced.php:144
+msgid ""
+"<a href=\"%link_mark-affiliate-links%\" target=\"_blank\">More information</"
+"a>"
+msgstr ""
+"<a href=\"%link_mark-affiliate-links%\" target=\"_blank\">Mehr "
+"Informationen</a>"
+
+#: includes/atkp_settings_advanced.php:154
+msgid "Open links in new window/tab"
+msgstr "Links in neuem Fenster/Tab öffnen"
+
+#: includes/atkp_settings_advanced.php:175
+msgid "Use old shortcode generator"
+msgstr "Alten Shortcode-Generator verwenden"
+
+#: includes/atkp_settings_display.php:79
+msgid "Display"
+msgstr "Anzeige"
+
+#: includes/atkp_settings_display.php:90
+msgid "Show price"
+msgstr "Preis anzeigen"
+
+#: includes/atkp_settings_display.php:103
+msgid "Show price discount"
+msgstr "Preisnachlass anzeigen"
+
+#: includes/atkp_settings_display.php:115
+msgid "Show star rating"
+msgstr "Sterne-Bewertung anzeigen"
+
+#: includes/atkp_settings_display.php:127
+msgid "Hide empty stars"
+msgstr "Sternebewertungen mit dem Durschnitt 0 ausblenden"
+
+#: includes/atkp_settings_display.php:141
+msgid "Show rating"
+msgstr "Bewertung anzeigen"
+
+#: includes/atkp_settings_display.php:153
+msgid "Hide empty ratings"
+msgstr "Kundenbewertungen mit der Anzahl 0 ausblenden"
+
+#: includes/atkp_settings_display.php:165
+msgid "Link rating"
+msgstr "Verlinke Bewertungen"
+
+#: includes/atkp_settings_display.php:177
+msgid "Link image"
+msgstr "Verlinke Produktbild"
+
+#: includes/atkp_settings_display.php:185
+msgid "Bestseller ribbon"
+msgstr "Bestseller Band"
+
+#: includes/atkp_settings_display.php:193
+msgid "First three products"
+msgstr "Ersten drei Produkte"
+
+#: includes/atkp_settings_display.php:195
+msgid "All products"
+msgstr "Alle Produkte"
+
+#: includes/atkp_settings_display.php:205
+msgid "Box style"
+msgstr "Box-Style"
+
+#: includes/atkp_settings_display.php:213
+msgid "Classic Box"
+msgstr "Klassischer Button"
+
+#: includes/atkp_settings_display.php:215
+msgid "Flat Box with border"
+msgstr "Flache Box mit Rand"
+
+#: includes/atkp_settings_display.php:216
+msgid "Flat Box without border"
+msgstr "Flache Box ohne Rand"
+
+#: includes/atkp_settings_display.php:226
+msgid "Button style"
+msgstr "Button-Style"
+
+#: includes/atkp_settings_display.php:234
+msgid "Classic Button"
+msgstr "Klassischer Button"
+
+#: includes/atkp_settings_display.php:235
+msgid "Amazon Button"
+msgstr "Amazon Button"
+
+#: includes/atkp_settings_display.php:237
+msgid "Flat Button"
+msgstr "Flacher Button"
+
+#: includes/atkp_settings_display.php:239
+msgid "No style"
+msgstr "Kein Style"
+
+#: includes/atkp_settings_display.php:249
+msgid "Text"
+msgstr "Text"
+
+#: includes/atkp_settings_display.php:258
+msgid "Maximum title length"
+msgstr "Maximale Titellänge"
+
+#: includes/atkp_settings_display.php:269
+msgid "Maximum description length"
+msgstr "Maximale Beschreibungslänge"
+
+#: includes/atkp_settings_display.php:280
+msgid "Maximum feature count"
+msgstr "Maximale Eigenschaftenanzahl"
+
+#: includes/atkp_settings_display.php:294
+msgid "Description & Features"
+msgstr "Beschreibung & Eigenschaften"
+
+#: includes/atkp_settings_display.php:302
+msgid "Features and (if empty) Description "
+msgstr "Eigenschaften und (wenn leer) Beschreibung"
+
+#: includes/atkp_settings_toolkit.php:81
+msgid "Global settings"
+msgstr "Globale Einstellungen"
+
+#: includes/atkp_settings_toolkit.php:87
+msgid "cronjob type"
+msgstr "Cronjob-Typ"
+
+#: includes/atkp_settings_toolkit.php:95
+msgid "Wordpress Cronjob"
+msgstr "Wordpress Cronjob"
+
+#: includes/atkp_settings_toolkit.php:116
+msgid "Settings for data cache"
+msgstr "Einstellungen für den Datencache"
+
+#: includes/atkp_settings_toolkit.php:123
+msgid "Cache duration"
+msgstr "Cache-Dauer"
+
+#: includes/atkp_shortcode_generator.php:161
+msgid "Affiliate-Toolkit shortcodes"
+msgstr "Affiliate-Toolkit Shortcodes"
+
+#: includes/atkp_shortcode_generator.php:178
+#: includes/atkp_shortcode_generator2.php:247
+msgid "Close (Esc)"
+msgstr "Schließen (ESC)"
+
+#: includes/atkp_shortcode_generator.php:179
+#: includes/atkp_shortcode_generator2.php:248
+msgid "Loading..."
+msgstr "Laden..."
+
+#: includes/atkp_shortcode_generator.php:180
+#: includes/atkp_shortcode_generator2.php:249
+msgid "Previous (Left arrow key)"
+msgstr "Voriges (Linker Pfeil)"
+
+#: includes/atkp_shortcode_generator.php:181
+#: includes/atkp_shortcode_generator2.php:250
+msgid "Next (Right arrow key)"
+msgstr "Nächste (Rechter Pfeil)"
+
+#: includes/atkp_shortcode_generator.php:182
+#: includes/atkp_shortcode_generator2.php:251
+#, php-format
+msgid "%s of %s"
+msgstr "%s von %s"
+
+#: includes/atkp_shortcode_generator.php:183
+#: includes/atkp_shortcode_generator2.php:252
+#, php-format
+msgid "Failed to load this link. %sOpen link%s."
+msgstr "Link kann nicht geladen werden %sLink öffnen%s."
+
+#: includes/atkp_shortcode_generator.php:212
+#: includes/atkp_shortcode_generator2.php:273
+msgid "Affiliate Toolkit Product"
+msgstr "Affiliate Toolkit Produkt"
+
+#: includes/atkp_shortcode_generator.php:231
+#: includes/atkp_shortcode_generator2.php:291
+msgid "Main product:"
+msgstr "Hauptprodukt:"
+
+#: includes/atkp_shortcode_generator.php:238
+#: includes/atkp_shortcode_generator2.php:297
+#: includes/helper/atkp_control_helper.php:43
+#: includes/helper/atkp_control_helper.php:59
+#: includes/helper/atkp_control_helper.php:91
+#: includes/helper/atkp_control_helper.php:139
+#: includes/helper/atkp_control_helper.php:155
+msgid "None"
+msgstr "Keine Angabe"
+
+#: includes/atkp_shortcode_generator.php:318
+msgid "Type:"
+msgstr "Typ:"
+
+#: includes/atkp_shortcode_generator.php:321
+msgid "product"
+msgstr "Produkt"
+
+#: includes/atkp_shortcode_generator.php:322
+msgid "list"
+msgstr "Liste"
+
+#: includes/atkp_shortcode_generator.php:323
+msgid "field"
+msgstr "Feld"
+
+#: includes/atkp_shortcode_generator.php:331 includes/atkp_widget.php:154
+msgid "Product:"
+msgstr "Produkt:"
+
+#: includes/atkp_shortcode_generator.php:349 includes/atkp_widget.php:176
+msgid "List:"
+msgstr "Liste:"
+
+#: includes/atkp_shortcode_generator.php:365
+#: includes/atkp_shortcode_generator2.php:643 includes/atkp_widget.php:230
+msgid "Limit:"
+msgstr "Limit:"
+
+#: includes/atkp_shortcode_generator.php:373
+#: includes/atkp_shortcode_generator2.php:657
+msgid "Random sort"
+msgstr "Zufällige Sortierung:"
+
+#: includes/atkp_shortcode_generator.php:379
+#: includes/atkp_shortcode_generator2.php:566 includes/atkp_widget.php:197
+msgid "Template:"
+msgstr "Vorlage:"
+
+#: includes/atkp_shortcode_generator.php:388
+msgid "all offers"
+msgstr "Alle Angebote"
+
+#: includes/atkp_shortcode_generator.php:404
+#: includes/atkp_shortcode_generator2.php:588 includes/atkp_widget.php:220
+msgid "Container CSS Class:"
+msgstr "Container-CSS-Klasse:"
+
+#: includes/atkp_shortcode_generator.php:409
+#: includes/atkp_shortcode_generator2.php:597 includes/atkp_widget.php:225
+msgid "Element CSS Class:"
+msgstr "Element-CSS-Klasse:"
+
+#: includes/atkp_shortcode_generator.php:416
+#: includes/atkp_shortcode_generator2.php:606
+msgid "Align:"
+msgstr "Ausrichtung"
+
+#: includes/atkp_shortcode_generator.php:418
+#: includes/atkp_shortcode_generator2.php:610
+msgid "no alignment"
+msgstr "Keine Ausrichtung"
+
+#: includes/atkp_shortcode_generator.php:419
+#: includes/atkp_shortcode_generator2.php:611
+msgid "left"
+msgstr "Linksbündig"
+
+#: includes/atkp_shortcode_generator.php:420
+#: includes/atkp_shortcode_generator2.php:612
+msgid "center"
+msgstr "Zentriert"
+
+#: includes/atkp_shortcode_generator.php:421
+#: includes/atkp_shortcode_generator2.php:613
+msgid "right"
+msgstr "Rechtsbündig"
+
+#: includes/atkp_shortcode_generator.php:428
+#: includes/atkp_shortcode_generator2.php:620
+#: includes/atkp_shortcode_generator2.php:724 includes/atkp_widget.php:235
+msgid "Content:"
+msgstr "Inhalt:"
+
+#: includes/atkp_shortcode_generator.php:435
+#: includes/atkp_shortcode_generator2.php:682
+msgid "Field:"
+msgstr "Feld:"
+
+#: includes/atkp_shortcode_generator.php:456
+#: includes/atkp_shortcode_generator2.php:711
+#: includes/atkp_shortcode_generator2.php:720
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+#: includes/atkp_shortcode_generator.php:461
+#: includes/atkp_shortcode_generator2.php:629
+msgid "Buttontype:"
+msgstr "Button-Typ:"
+
+#: includes/atkp_shortcode_generator.php:468
+msgid "product page"
+msgstr "Produktseite"
+
+#: includes/atkp_shortcode_generator.php:477
+msgid "refresh shortcode"
+msgstr "Shortcode aktualisieren"
+
+#: includes/atkp_shortcode_generator.php:479
+#: includes/atkp_shortcode_generator2.php:814
+msgid "Insert shortcode"
+msgstr "Shortcode einfügen"
+
+#: includes/atkp_shortcode_generator2.php:66
+#: includes/atkp_shortcode_generator2.php:230
+msgid "affiliate-toolkit Shortcodes"
+msgstr "affiliate-toolkit Shortcodes"
+
+#: includes/atkp_shortcode_generator2.php:330
+#: includes/atkp_shortcode_generator2.php:1315
+msgid "What do you want?"
+msgstr "Was möchtest du machen?"
+
+#: includes/atkp_shortcode_generator2.php:341
+msgid "Search for an already imported product and use it in your post."
+msgstr ""
+"Durchsuche bereits importierte Produkte und verwende diese in deinem Beitrag."
+
+#: includes/atkp_shortcode_generator2.php:351
+msgid "Import a new product and use this in your post."
+msgstr "Importiere ein neues Produkt und verwende dieses in deinem Beitrag."
+
+#: includes/atkp_shortcode_generator2.php:363
+msgid "Search an already created list and use it in your post."
+msgstr ""
+"Durchsuche bereits erstellte Listen und verwende diese in deinem Beitrag."
+
+#: includes/atkp_shortcode_generator2.php:373
+msgid "Create a new list (manual, best seller, etc.) and use it in your post."
+msgstr ""
+"Erstelle eine neue Liste (Manuell, Bestseller, etc.) und verwende diese in "
+"deinem Beitrag."
+
+#: includes/atkp_shortcode_generator2.php:404
+#: includes/atkp_shortcode_generator2.php:446
+#: includes/atkp_shortcode_generator2.php:551
+#: includes/atkp_shortcode_generator2.php:812
+msgid "Back"
+msgstr "Zurück"
+
+#: includes/atkp_shortcode_generator2.php:412
+#: includes/atkp_shortcode_generator2.php:464
+msgid "Shop:"
+msgstr "Shop:"
+
+#: includes/atkp_shortcode_generator2.php:456
+msgid "Name:"
+msgstr "Name:"
+
+#: includes/atkp_shortcode_generator2.php:493
+msgid "Quelle:"
+msgstr ""
+
+#: includes/atkp_shortcode_generator2.php:533
+msgid ""
+"This is a snap position. Further adjustments must still be made in the list "
+"editor."
+msgstr ""
+"Dies ist eine Erstellungsmaske. Weitere Anpassungen müssen noch im "
+"Listeneditor vorgenommen werden."
+
+#: includes/atkp_shortcode_generator2.php:543
+msgid "Create list and use"
+msgstr "Liste erstellen und verwenden"
+
+#: includes/atkp_shortcode_generator2.php:562
+msgid "Template"
+msgstr "Vorlage"
+
+#: includes/atkp_shortcode_generator2.php:669
+#: includes/atkp_shortcode_generator2.php:791
+msgid "Hide disclaimer"
+msgstr "Haftungsausschluss ausblenden"
+
+#: includes/atkp_shortcode_generator2.php:678
+msgid "Field"
+msgstr "Feld"
+
+#: includes/atkp_shortcode_generator2.php:734
+msgid "compare table"
+msgstr "Vergleichstabelle"
+
+#: includes/atkp_shortcode_generator2.php:738
+msgid "Compare values (multi select):"
+msgstr "Werte vergleichen (Mehrfachauswahl):"
+
+#: includes/atkp_shortcode_generator2.php:766
+msgid "Horizontal scrollbars"
+msgstr "Horizontale Scrollbars (im Desktop)"
+
+#: includes/atkp_shortcode_generator2.php:780
+msgid "Hide header"
+msgstr "Kopf ausblenden"
+
+#: includes/atkp_shortcode_generator2.php:802
+msgid "Override affiliate-id (amazon):"
+msgstr "Affiliate-ID übersteuern (nur Amazon):"
+
+#: includes/atkp_shortcode_generator2.php:813
+msgid "Copy shortcode to clipboard"
+msgstr "Shortcode in die Zwischenablage"
+
+#: includes/atkp_shortcode_generator2.php:899
+#: includes/atkp_shortcode_generator2.php:971
+#: includes/atkp_shortcode_generator2.php:1247
+msgid "Use product"
+msgstr "Produkt verwenden"
+
+#: includes/atkp_shortcode_generator2.php:903
+#: includes/atkp_shortcode_generator2.php:977
+msgid "Use list"
+msgstr "Liste verwenden"
+
+#: includes/atkp_shortcode_generator2.php:916
+#: includes/atkp_shortcode_generator2.php:998
+msgid "No results"
+msgstr "Keine Ergebnisse"
+
+#: includes/atkp_shortcode_generator2.php:973
+msgid "Import and use product"
+msgstr "Produkt importieren und verwenden"
+
+#: includes/atkp_shortcode_generator2.php:1022
+msgid "Browsenode-ID:"
+msgstr "Browsenode-ID:"
+
+#: includes/atkp_shortcode_generator2.php:1127
+msgid "Copy to clipboard: Ctrl+C, Enter"
+msgstr "In die Zwischenablage kopieren: Strg+C, Eingabe"
+
+#: includes/atkp_shortcode_generator2.php:1251
+msgid "Imported"
+msgstr "Importiert"
+
+#: includes/atkp_shortcode_generator2.php:1251
+msgid "Product imported."
+msgstr "Produkt importiert."
+
+#: includes/atkp_shortcode_generator2.php:1289
+msgid "New post"
+msgstr "Neuer Beitrag"
+
+#: includes/atkp_shortcode_generator2.php:1326
+msgid "Search product"
+msgstr "Produkt suchen"
+
+#: includes/atkp_shortcode_generator2.php:1328
+msgid "Search list"
+msgstr "Liste suchen"
+
+#: includes/atkp_shortcode_generator2.php:1333
+msgid "Create product"
+msgstr "Produkt anlegen"
+
+#: includes/atkp_shortcode_generator2.php:1338
+msgid "Create list"
+msgstr "Liste anlegen"
+
+#: includes/atkp_shortcode_generator2.php:1361
+msgid "Output"
+msgstr "Ausgabe"
+
+#: includes/atkp_tools_debug.php:34
+msgid "Affiliate Toolkit - Woo"
+msgstr "Affiliate Toolkit - Woo"
+
+#: includes/atkp_tools_debug.php:41
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: includes/atkp_tools_debug.php:48
+msgid "Log Level"
+msgstr "Log Level"
+
+#: includes/atkp_tools_debug.php:56
+msgid "OFF"
+msgstr "OFF"
+
+#: includes/atkp_tools_debug.php:58
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#: includes/atkp_tools_debug.php:60
+msgid "ERROR"
+msgstr "ERROR"
+
+#: includes/atkp_tools_debug.php:66
+msgid "Download Logfile"
+msgstr "Logfile herunterladen"
+
+#: includes/atkp_tools_debug.php:68
+msgid "Clear Logfile"
+msgstr "Logfile löschen"
+
+#: includes/atkp_udfield.php:116 includes/atkp_udfield.php:117
+msgid "Book author"
+msgstr "Buchautor"
+
+#: includes/atkp_widget.php:13
+msgid "Affiliate Toolkit Widget"
+msgstr "Affiliate Toolkit Widget"
+
+#: includes/atkp_widget.php:16
+msgid "Shows a product or a list."
+msgstr "Zeigt ein Produkt oder eine Liste."
+
+#: includes/atkp_widget.php:141
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/atkp_widget.php:149
+msgid "Use main product"
+msgstr "Hauptprodukt verwenden"
+
+#: includes/atkp_widget.php:157
+msgid "no product"
+msgstr "Kein Produkt"
+
+#: includes/atkp_widget.php:179
+msgid "no list"
+msgstr "Keine Liste"
+
+#: includes/atkp_widget.php:243
+msgid "Random sort (List)"
+msgstr "Liste Zufällig sortieren"
+
+#: includes/helper/atkp_amazon_helper_de.php:10
+msgid "Alle Kategorien"
+msgstr "Alle Kategorien"
+
+#: includes/helper/atkp_amazon_helper_de.php:13
+#: includes/helper/atkp_amazon_helper_en.php:13
+msgid "Amazon Instant Video"
+msgstr "Amazon Instant Video"
+
+#: includes/helper/atkp_amazon_helper_de.php:15
+#: includes/helper/atkp_amazon_helper_de.php:231
+#: includes/helper/atkp_amazon_helper_de.php:297
+msgid "date-desc-rank"
+msgstr "Veröffentlichungsdatum (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:16
+#: includes/helper/atkp_amazon_helper_en.php:143
+#: includes/helper/atkp_amazon_helper_en.php:154
+#: includes/helper/atkp_amazon_helper_en.php:165
+#: includes/helper/atkp_amazon_helper_en.php:176
+#: includes/helper/atkp_amazon_helper_en.php:187
+#: includes/helper/atkp_amazon_helper_en.php:198
+#: includes/helper/atkp_amazon_helper_en.php:317
+msgid "popularity-rank"
+msgstr "Beliebtheit"
+
+#: includes/helper/atkp_amazon_helper_de.php:17
+msgid "price-asc-rank"
+msgstr "Preis"
+
+#: includes/helper/atkp_amazon_helper_de.php:18
+msgid "price-desc-rank"
+msgstr "Preis (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:19
+#: includes/helper/atkp_amazon_helper_de.php:28
+#: includes/helper/atkp_amazon_helper_de.php:38
+#: includes/helper/atkp_amazon_helper_de.php:48
+#: includes/helper/atkp_amazon_helper_de.php:59
+#: includes/helper/atkp_amazon_helper_de.php:71
+#: includes/helper/atkp_amazon_helper_de.php:80
+#: includes/helper/atkp_amazon_helper_de.php:90
+#: includes/helper/atkp_amazon_helper_de.php:100
+#: includes/helper/atkp_amazon_helper_de.php:127
+#: includes/helper/atkp_amazon_helper_de.php:161
+#: includes/helper/atkp_amazon_helper_de.php:172
+#: includes/helper/atkp_amazon_helper_de.php:221
+#: includes/helper/atkp_amazon_helper_de.php:233
+#: includes/helper/atkp_amazon_helper_de.php:246
+#: includes/helper/atkp_amazon_helper_de.php:258
+#: includes/helper/atkp_amazon_helper_de.php:271
+#: includes/helper/atkp_amazon_helper_de.php:287
+#: includes/helper/atkp_amazon_helper_de.php:299
+#: includes/helper/atkp_amazon_helper_de.php:311
+#: includes/helper/atkp_amazon_helper_de.php:322
+#: includes/helper/atkp_amazon_helper_de.php:356
+#: includes/helper/atkp_amazon_helper_de.php:368
+#: includes/helper/atkp_amazon_helper_de.php:379
+#: includes/helper/atkp_amazon_helper_de.php:390
+#: includes/helper/atkp_amazon_helper_de.php:413
+#: includes/helper/atkp_amazon_helper_de.php:426
+#: includes/helper/atkp_amazon_helper_de.php:446
+#: includes/helper/atkp_amazon_helper_de.php:459
+#: includes/helper/atkp_amazon_helper_en.php:19
+#: includes/helper/atkp_amazon_helper_en.php:30
+#: includes/helper/atkp_amazon_helper_en.php:42
+#: includes/helper/atkp_amazon_helper_en.php:53
+#: includes/helper/atkp_amazon_helper_en.php:65
+#: includes/helper/atkp_amazon_helper_en.php:102
+#: includes/helper/atkp_amazon_helper_en.php:121
+#: includes/helper/atkp_amazon_helper_en.php:145
+#: includes/helper/atkp_amazon_helper_en.php:156
+#: includes/helper/atkp_amazon_helper_en.php:167
+#: includes/helper/atkp_amazon_helper_en.php:178
+#: includes/helper/atkp_amazon_helper_en.php:189
+#: includes/helper/atkp_amazon_helper_en.php:200
+#: includes/helper/atkp_amazon_helper_en.php:209
+#: includes/helper/atkp_amazon_helper_en.php:231
+#: includes/helper/atkp_amazon_helper_en.php:251
+#: includes/helper/atkp_amazon_helper_en.php:263
+#: includes/helper/atkp_amazon_helper_en.php:307
+#: includes/helper/atkp_amazon_helper_en.php:319
+#: includes/helper/atkp_amazon_helper_en.php:344
+#: includes/helper/atkp_amazon_helper_en.php:375
+#: includes/helper/atkp_amazon_helper_en.php:388
+#: includes/helper/atkp_amazon_helper_en.php:400
+#: includes/helper/atkp_amazon_helper_en.php:423
+#: includes/helper/atkp_amazon_helper_en.php:467
+msgid "relevancerank"
+msgstr "Relevanz"
+
+#: includes/helper/atkp_amazon_helper_de.php:20
+msgid "review-rank"
+msgstr "Kundenbewertungen"
+
+#: includes/helper/atkp_amazon_helper_de.php:24
+msgid "Amazon Pantry"
+msgstr "Amazon Pantry"
+
+#: includes/helper/atkp_amazon_helper_de.php:26
+#: includes/helper/atkp_amazon_helper_de.php:35
+#: includes/helper/atkp_amazon_helper_de.php:46
+#: includes/helper/atkp_amazon_helper_de.php:56
+#: includes/helper/atkp_amazon_helper_de.php:68
+#: includes/helper/atkp_amazon_helper_de.php:78
+#: includes/helper/atkp_amazon_helper_de.php:88
+#: includes/helper/atkp_amazon_helper_de.php:98
+#: includes/helper/atkp_amazon_helper_de.php:109
+#: includes/helper/atkp_amazon_helper_de.php:125
+#: includes/helper/atkp_amazon_helper_de.php:135
+#: includes/helper/atkp_amazon_helper_de.php:148
+#: includes/helper/atkp_amazon_helper_de.php:158
+#: includes/helper/atkp_amazon_helper_de.php:170
+#: includes/helper/atkp_amazon_helper_de.php:181
+#: includes/helper/atkp_amazon_helper_de.php:191
+#: includes/helper/atkp_amazon_helper_de.php:208
+#: includes/helper/atkp_amazon_helper_de.php:218
+#: includes/helper/atkp_amazon_helper_de.php:230
+#: includes/helper/atkp_amazon_helper_de.php:242
+#: includes/helper/atkp_amazon_helper_de.php:255
+#: includes/helper/atkp_amazon_helper_de.php:268
+#: includes/helper/atkp_amazon_helper_de.php:279
+#: includes/helper/atkp_amazon_helper_de.php:296
+#: includes/helper/atkp_amazon_helper_de.php:308
+#: includes/helper/atkp_amazon_helper_de.php:320
+#: includes/helper/atkp_amazon_helper_de.php:331
+#: includes/helper/atkp_amazon_helper_de.php:349
+#: includes/helper/atkp_amazon_helper_de.php:366
+#: includes/helper/atkp_amazon_helper_de.php:377
+#: includes/helper/atkp_amazon_helper_de.php:388
+#: includes/helper/atkp_amazon_helper_de.php:399
+#: includes/helper/atkp_amazon_helper_de.php:410
+#: includes/helper/atkp_amazon_helper_de.php:421
+#: includes/helper/atkp_amazon_helper_de.php:435
+#: includes/helper/atkp_amazon_helper_de.php:443
+#: includes/helper/atkp_amazon_helper_de.php:455
+#: includes/helper/atkp_amazon_helper_en.php:16
+#: includes/helper/atkp_amazon_helper_en.php:27
+#: includes/helper/atkp_amazon_helper_en.php:39
+#: includes/helper/atkp_amazon_helper_en.php:50
+#: includes/helper/atkp_amazon_helper_en.php:62
+#: includes/helper/atkp_amazon_helper_en.php:73
+#: includes/helper/atkp_amazon_helper_en.php:84
+#: includes/helper/atkp_amazon_helper_en.php:94
+#: includes/helper/atkp_amazon_helper_en.php:112
+#: includes/helper/atkp_amazon_helper_en.php:141
+#: includes/helper/atkp_amazon_helper_en.php:152
+#: includes/helper/atkp_amazon_helper_en.php:163
+#: includes/helper/atkp_amazon_helper_en.php:174
+#: includes/helper/atkp_amazon_helper_en.php:185
+#: includes/helper/atkp_amazon_helper_en.php:196
+#: includes/helper/atkp_amazon_helper_en.php:207
+#: includes/helper/atkp_amazon_helper_en.php:218
+#: includes/helper/atkp_amazon_helper_en.php:228
+#: includes/helper/atkp_amazon_helper_en.php:238
+#: includes/helper/atkp_amazon_helper_en.php:249
+#: includes/helper/atkp_amazon_helper_en.php:282
+#: includes/helper/atkp_amazon_helper_en.php:292
+#: includes/helper/atkp_amazon_helper_en.php:304
+#: includes/helper/atkp_amazon_helper_en.php:315
+#: includes/helper/atkp_amazon_helper_en.php:326
+#: includes/helper/atkp_amazon_helper_en.php:340
+#: includes/helper/atkp_amazon_helper_en.php:352
+#: includes/helper/atkp_amazon_helper_en.php:362
+#: includes/helper/atkp_amazon_helper_en.php:373
+#: includes/helper/atkp_amazon_helper_en.php:384
+#: includes/helper/atkp_amazon_helper_en.php:398
+#: includes/helper/atkp_amazon_helper_en.php:407
+#: includes/helper/atkp_amazon_helper_en.php:417
+#: includes/helper/atkp_amazon_helper_en.php:432
+#: includes/helper/atkp_amazon_helper_en.php:444
+#: includes/helper/atkp_amazon_helper_en.php:454
+#: includes/helper/atkp_amazon_helper_en.php:464
+msgid "-price"
+msgstr "Preis (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:27
+#: includes/helper/atkp_amazon_helper_de.php:37
+#: includes/helper/atkp_amazon_helper_de.php:47
+#: includes/helper/atkp_amazon_helper_de.php:57
+#: includes/helper/atkp_amazon_helper_de.php:70
+#: includes/helper/atkp_amazon_helper_de.php:79
+#: includes/helper/atkp_amazon_helper_de.php:89
+#: includes/helper/atkp_amazon_helper_de.php:99
+#: includes/helper/atkp_amazon_helper_de.php:115
+#: includes/helper/atkp_amazon_helper_de.php:126
+#: includes/helper/atkp_amazon_helper_de.php:137
+#: includes/helper/atkp_amazon_helper_de.php:150
+#: includes/helper/atkp_amazon_helper_de.php:160
+#: includes/helper/atkp_amazon_helper_de.php:171
+#: includes/helper/atkp_amazon_helper_de.php:183
+#: includes/helper/atkp_amazon_helper_de.php:197
+#: includes/helper/atkp_amazon_helper_de.php:210
+#: includes/helper/atkp_amazon_helper_de.php:220
+#: includes/helper/atkp_amazon_helper_de.php:232
+#: includes/helper/atkp_amazon_helper_de.php:244
+#: includes/helper/atkp_amazon_helper_de.php:257
+#: includes/helper/atkp_amazon_helper_de.php:270
+#: includes/helper/atkp_amazon_helper_de.php:284
+#: includes/helper/atkp_amazon_helper_de.php:298
+#: includes/helper/atkp_amazon_helper_de.php:310
+#: includes/helper/atkp_amazon_helper_de.php:321
+#: includes/helper/atkp_amazon_helper_de.php:336
+#: includes/helper/atkp_amazon_helper_de.php:355
+#: includes/helper/atkp_amazon_helper_de.php:367
+#: includes/helper/atkp_amazon_helper_de.php:378
+#: includes/helper/atkp_amazon_helper_de.php:389
+#: includes/helper/atkp_amazon_helper_de.php:401
+#: includes/helper/atkp_amazon_helper_de.php:412
+#: includes/helper/atkp_amazon_helper_de.php:424
+#: includes/helper/atkp_amazon_helper_de.php:437
+#: includes/helper/atkp_amazon_helper_de.php:445
+#: includes/helper/atkp_amazon_helper_de.php:458
+#: includes/helper/atkp_amazon_helper_en.php:18
+#: includes/helper/atkp_amazon_helper_en.php:29
+#: includes/helper/atkp_amazon_helper_en.php:41
+#: includes/helper/atkp_amazon_helper_en.php:52
+#: includes/helper/atkp_amazon_helper_en.php:64
+#: includes/helper/atkp_amazon_helper_en.php:74
+#: includes/helper/atkp_amazon_helper_en.php:86
+#: includes/helper/atkp_amazon_helper_en.php:100
+#: includes/helper/atkp_amazon_helper_en.php:117
+#: includes/helper/atkp_amazon_helper_en.php:144
+#: includes/helper/atkp_amazon_helper_en.php:155
+#: includes/helper/atkp_amazon_helper_en.php:166
+#: includes/helper/atkp_amazon_helper_en.php:177
+#: includes/helper/atkp_amazon_helper_en.php:188
+#: includes/helper/atkp_amazon_helper_en.php:199
+#: includes/helper/atkp_amazon_helper_en.php:208
+#: includes/helper/atkp_amazon_helper_en.php:219
+#: includes/helper/atkp_amazon_helper_en.php:230
+#: includes/helper/atkp_amazon_helper_en.php:240
+#: includes/helper/atkp_amazon_helper_en.php:250
+#: includes/helper/atkp_amazon_helper_en.php:284
+#: includes/helper/atkp_amazon_helper_en.php:295
+#: includes/helper/atkp_amazon_helper_en.php:306
+#: includes/helper/atkp_amazon_helper_en.php:318
+#: includes/helper/atkp_amazon_helper_en.php:331
+#: includes/helper/atkp_amazon_helper_en.php:343
+#: includes/helper/atkp_amazon_helper_en.php:354
+#: includes/helper/atkp_amazon_helper_en.php:364
+#: includes/helper/atkp_amazon_helper_en.php:374
+#: includes/helper/atkp_amazon_helper_en.php:386
+#: includes/helper/atkp_amazon_helper_en.php:399
+#: includes/helper/atkp_amazon_helper_en.php:409
+#: includes/helper/atkp_amazon_helper_en.php:420
+#: includes/helper/atkp_amazon_helper_en.php:435
+#: includes/helper/atkp_amazon_helper_en.php:446
+#: includes/helper/atkp_amazon_helper_en.php:456
+#: includes/helper/atkp_amazon_helper_en.php:466
+msgid "price"
+msgstr "Preis"
+
+#: includes/helper/atkp_amazon_helper_de.php:29
+#: includes/helper/atkp_amazon_helper_de.php:39
+#: includes/helper/atkp_amazon_helper_de.php:49
+#: includes/helper/atkp_amazon_helper_de.php:60
+#: includes/helper/atkp_amazon_helper_de.php:72
+#: includes/helper/atkp_amazon_helper_de.php:81
+#: includes/helper/atkp_amazon_helper_de.php:91
+#: includes/helper/atkp_amazon_helper_de.php:101
+#: includes/helper/atkp_amazon_helper_de.php:117
+#: includes/helper/atkp_amazon_helper_de.php:128
+#: includes/helper/atkp_amazon_helper_de.php:139
+#: includes/helper/atkp_amazon_helper_de.php:162
+#: includes/helper/atkp_amazon_helper_de.php:173
+#: includes/helper/atkp_amazon_helper_de.php:199
+#: includes/helper/atkp_amazon_helper_de.php:222
+#: includes/helper/atkp_amazon_helper_de.php:234
+#: includes/helper/atkp_amazon_helper_de.php:247
+#: includes/helper/atkp_amazon_helper_de.php:259
+#: includes/helper/atkp_amazon_helper_de.php:272
+#: includes/helper/atkp_amazon_helper_de.php:288
+#: includes/helper/atkp_amazon_helper_de.php:300
+#: includes/helper/atkp_amazon_helper_de.php:312
+#: includes/helper/atkp_amazon_helper_de.php:323
+#: includes/helper/atkp_amazon_helper_de.php:357
+#: includes/helper/atkp_amazon_helper_de.php:369
+#: includes/helper/atkp_amazon_helper_de.php:380
+#: includes/helper/atkp_amazon_helper_de.php:391
+#: includes/helper/atkp_amazon_helper_de.php:414
+#: includes/helper/atkp_amazon_helper_de.php:427
+#: includes/helper/atkp_amazon_helper_de.php:447
+#: includes/helper/atkp_amazon_helper_de.php:460
+#: includes/helper/atkp_amazon_helper_en.php:31
+#: includes/helper/atkp_amazon_helper_en.php:43
+#: includes/helper/atkp_amazon_helper_en.php:54
+#: includes/helper/atkp_amazon_helper_en.php:103
+#: includes/helper/atkp_amazon_helper_en.php:133
+#: includes/helper/atkp_amazon_helper_en.php:146
+#: includes/helper/atkp_amazon_helper_en.php:157
+#: includes/helper/atkp_amazon_helper_en.php:168
+#: includes/helper/atkp_amazon_helper_en.php:179
+#: includes/helper/atkp_amazon_helper_en.php:190
+#: includes/helper/atkp_amazon_helper_en.php:201
+#: includes/helper/atkp_amazon_helper_en.php:210
+#: includes/helper/atkp_amazon_helper_en.php:241
+#: includes/helper/atkp_amazon_helper_en.php:252
+#: includes/helper/atkp_amazon_helper_en.php:308
+#: includes/helper/atkp_amazon_helper_en.php:320
+#: includes/helper/atkp_amazon_helper_en.php:332
+#: includes/helper/atkp_amazon_helper_en.php:345
+#: includes/helper/atkp_amazon_helper_en.php:365
+#: includes/helper/atkp_amazon_helper_en.php:376
+#: includes/helper/atkp_amazon_helper_en.php:389
+#: includes/helper/atkp_amazon_helper_en.php:401
+#: includes/helper/atkp_amazon_helper_en.php:468
+msgid "reviewrank"
+msgstr "Kundenbewertungen"
+
+#: includes/helper/atkp_amazon_helper_de.php:33
+msgid "Apps & Spiele"
+msgstr "Apps & Spiele"
+
+#: includes/helper/atkp_amazon_helper_de.php:36
+#: includes/helper/atkp_amazon_helper_en.php:28
+#: includes/helper/atkp_amazon_helper_en.php:40
+#: includes/helper/atkp_amazon_helper_en.php:51
+#: includes/helper/atkp_amazon_helper_en.php:85
+#: includes/helper/atkp_amazon_helper_en.php:239
+#: includes/helper/atkp_amazon_helper_en.php:273
+#: includes/helper/atkp_amazon_helper_en.php:294
+#: includes/helper/atkp_amazon_helper_en.php:353
+#: includes/helper/atkp_amazon_helper_en.php:363
+#: includes/helper/atkp_amazon_helper_en.php:408
+#: includes/helper/atkp_amazon_helper_en.php:434
+#: includes/helper/atkp_amazon_helper_en.php:445
+#: includes/helper/atkp_amazon_helper_en.php:455
+msgid "pmrank"
+msgstr "Beliebte Produkte"
+
+#: includes/helper/atkp_amazon_helper_de.php:40
+#: includes/helper/atkp_amazon_helper_de.php:102
+#: includes/helper/atkp_amazon_helper_de.php:140
+#: includes/helper/atkp_amazon_helper_de.php:174
+#: includes/helper/atkp_amazon_helper_de.php:235
+#: includes/helper/atkp_amazon_helper_de.php:248
+#: includes/helper/atkp_amazon_helper_de.php:301
+#: includes/helper/atkp_amazon_helper_de.php:324
+#: includes/helper/atkp_amazon_helper_de.php:370
+#: includes/helper/atkp_amazon_helper_en.php:32
+#: includes/helper/atkp_amazon_helper_en.php:44
+#: includes/helper/atkp_amazon_helper_en.php:55
+#: includes/helper/atkp_amazon_helper_en.php:211
+#: includes/helper/atkp_amazon_helper_en.php:253
+#: includes/helper/atkp_amazon_helper_en.php:377
+#: includes/helper/atkp_amazon_helper_en.php:390
+#: includes/helper/atkp_amazon_helper_en.php:424
+msgid "reviewrank_authority"
+msgstr "Kundenbewertungen (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:44
+msgid "Auto & Motorrad"
+msgstr "Auto & Motorrad"
+
+#: includes/helper/atkp_amazon_helper_de.php:50
+#: includes/helper/atkp_amazon_helper_de.php:61
+#: includes/helper/atkp_amazon_helper_de.php:82
+#: includes/helper/atkp_amazon_helper_de.php:92
+#: includes/helper/atkp_amazon_helper_de.php:103
+#: includes/helper/atkp_amazon_helper_de.php:118
+#: includes/helper/atkp_amazon_helper_de.php:129
+#: includes/helper/atkp_amazon_helper_de.php:141
+#: includes/helper/atkp_amazon_helper_de.php:151
+#: includes/helper/atkp_amazon_helper_de.php:163
+#: includes/helper/atkp_amazon_helper_de.php:175
+#: includes/helper/atkp_amazon_helper_de.php:184
+#: includes/helper/atkp_amazon_helper_de.php:200
+#: includes/helper/atkp_amazon_helper_de.php:211
+#: includes/helper/atkp_amazon_helper_de.php:223
+#: includes/helper/atkp_amazon_helper_de.php:236
+#: includes/helper/atkp_amazon_helper_de.php:249
+#: includes/helper/atkp_amazon_helper_de.php:260
+#: includes/helper/atkp_amazon_helper_de.php:273
+#: includes/helper/atkp_amazon_helper_de.php:289
+#: includes/helper/atkp_amazon_helper_de.php:302
+#: includes/helper/atkp_amazon_helper_de.php:313
+#: includes/helper/atkp_amazon_helper_de.php:325
+#: includes/helper/atkp_amazon_helper_de.php:340
+#: includes/helper/atkp_amazon_helper_de.php:359
+#: includes/helper/atkp_amazon_helper_de.php:371
+#: includes/helper/atkp_amazon_helper_de.php:381
+#: includes/helper/atkp_amazon_helper_de.php:392
+#: includes/helper/atkp_amazon_helper_de.php:402
+#: includes/helper/atkp_amazon_helper_de.php:415
+#: includes/helper/atkp_amazon_helper_de.php:428
+#: includes/helper/atkp_amazon_helper_de.php:448
+#: includes/helper/atkp_amazon_helper_de.php:461
+#: includes/helper/atkp_amazon_helper_en.php:20
+#: includes/helper/atkp_amazon_helper_en.php:33
+#: includes/helper/atkp_amazon_helper_en.php:56
+#: includes/helper/atkp_amazon_helper_en.php:66
+#: includes/helper/atkp_amazon_helper_en.php:76
+#: includes/helper/atkp_amazon_helper_en.php:88
+#: includes/helper/atkp_amazon_helper_en.php:104
+#: includes/helper/atkp_amazon_helper_en.php:122
+#: includes/helper/atkp_amazon_helper_en.php:134
+#: includes/helper/atkp_amazon_helper_en.php:212
+#: includes/helper/atkp_amazon_helper_en.php:221
+#: includes/helper/atkp_amazon_helper_en.php:232
+#: includes/helper/atkp_amazon_helper_en.php:242
+#: includes/helper/atkp_amazon_helper_en.php:254
+#: includes/helper/atkp_amazon_helper_en.php:265
+#: includes/helper/atkp_amazon_helper_en.php:276
+#: includes/helper/atkp_amazon_helper_en.php:285
+#: includes/helper/atkp_amazon_helper_en.php:296
+#: includes/helper/atkp_amazon_helper_en.php:309
+#: includes/helper/atkp_amazon_helper_en.php:356
+#: includes/helper/atkp_amazon_helper_en.php:366
+#: includes/helper/atkp_amazon_helper_en.php:378
+#: includes/helper/atkp_amazon_helper_en.php:391
+#: includes/helper/atkp_amazon_helper_en.php:410
+#: includes/helper/atkp_amazon_helper_en.php:426
+#: includes/helper/atkp_amazon_helper_en.php:436
+#: includes/helper/atkp_amazon_helper_en.php:447
+#: includes/helper/atkp_amazon_helper_en.php:457
+msgid "salesrank"
+msgstr "Verkaufsrang"
+
+#: includes/helper/atkp_amazon_helper_de.php:54
+#: includes/helper/atkp_amazon_helper_en.php:71
+msgid "Baby"
+msgstr "Baby"
+
+#: includes/helper/atkp_amazon_helper_de.php:58
+#: includes/helper/atkp_amazon_helper_de.php:138
+#: includes/helper/atkp_amazon_helper_en.php:75
+#: includes/helper/atkp_amazon_helper_en.php:118
+#: includes/helper/atkp_amazon_helper_en.php:220
+msgid "psrank"
+msgstr "Bestseller (Niedriger Wert besser)"
+
+#: includes/helper/atkp_amazon_helper_de.php:62
+#: includes/helper/atkp_amazon_helper_de.php:119
+#: includes/helper/atkp_amazon_helper_de.php:142
+#: includes/helper/atkp_amazon_helper_de.php:152
+#: includes/helper/atkp_amazon_helper_de.php:164
+#: includes/helper/atkp_amazon_helper_de.php:185
+#: includes/helper/atkp_amazon_helper_de.php:201
+#: includes/helper/atkp_amazon_helper_de.php:212
+#: includes/helper/atkp_amazon_helper_de.php:224
+#: includes/helper/atkp_amazon_helper_de.php:261
+#: includes/helper/atkp_amazon_helper_de.php:290
+#: includes/helper/atkp_amazon_helper_de.php:314
+#: includes/helper/atkp_amazon_helper_de.php:341
+#: includes/helper/atkp_amazon_helper_de.php:360
+#: includes/helper/atkp_amazon_helper_de.php:403
+#: includes/helper/atkp_amazon_helper_de.php:429
+#: includes/helper/atkp_amazon_helper_de.php:449
+#: includes/helper/atkp_amazon_helper_de.php:462
+#: includes/helper/atkp_amazon_helper_en.php:21
+#: includes/helper/atkp_amazon_helper_en.php:67
+#: includes/helper/atkp_amazon_helper_en.php:77
+#: includes/helper/atkp_amazon_helper_en.php:105
+#: includes/helper/atkp_amazon_helper_en.php:123
+#: includes/helper/atkp_amazon_helper_en.php:135
+#: includes/helper/atkp_amazon_helper_en.php:222
+#: includes/helper/atkp_amazon_helper_en.php:243
+#: includes/helper/atkp_amazon_helper_en.php:286
+#: includes/helper/atkp_amazon_helper_en.php:297
+#: includes/helper/atkp_amazon_helper_en.php:334
+#: includes/helper/atkp_amazon_helper_en.php:367
+#: includes/helper/atkp_amazon_helper_en.php:392
+#: includes/helper/atkp_amazon_helper_en.php:411
+#: includes/helper/atkp_amazon_helper_en.php:437
+#: includes/helper/atkp_amazon_helper_en.php:448
+#: includes/helper/atkp_amazon_helper_en.php:458
+msgid "titlerank"
+msgstr "Alphabetisch (A bis Z)"
+
+#: includes/helper/atkp_amazon_helper_de.php:66
+msgid "Baumarkt"
+msgstr "Baumarkt"
+
+#: includes/helper/atkp_amazon_helper_de.php:69
+#: includes/helper/atkp_amazon_helper_de.php:436
+#: includes/helper/atkp_amazon_helper_en.php:342
+#: includes/helper/atkp_amazon_helper_en.php:465
+msgid "featured"
+msgstr "Beliebte Produkte"
+
+#: includes/helper/atkp_amazon_helper_de.php:76
+#: includes/helper/atkp_amazon_helper_en.php:81
+msgid "Beauty"
+msgstr "Beauty"
+
+#: includes/helper/atkp_amazon_helper_de.php:86
+msgid "Bekleidung"
+msgstr "Bekleidung"
+
+#: includes/helper/atkp_amazon_helper_de.php:96
+msgid "Beleuchtung"
+msgstr "Beleuchtung"
+
+#: includes/helper/atkp_amazon_helper_de.php:107
+msgid "Bücher"
+msgstr "Bücher"
+
+#: includes/helper/atkp_amazon_helper_de.php:110
+#: includes/helper/atkp_amazon_helper_de.php:192
+#: includes/helper/atkp_amazon_helper_de.php:280
+#: includes/helper/atkp_amazon_helper_de.php:332
+msgid "-pubdate"
+msgstr "Erscheinungsdatum (ältesten bis zum jüngsten)"
+
+#: includes/helper/atkp_amazon_helper_de.php:111
+#: includes/helper/atkp_amazon_helper_de.php:193
+#: includes/helper/atkp_amazon_helper_de.php:281
+#: includes/helper/atkp_amazon_helper_de.php:333
+#: includes/helper/atkp_amazon_helper_en.php:95
+#: includes/helper/atkp_amazon_helper_en.php:327
+msgid "-publication_date"
+msgstr "Erscheinungsdatum (neu nach alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:112
+#: includes/helper/atkp_amazon_helper_de.php:149
+#: includes/helper/atkp_amazon_helper_de.php:159
+#: includes/helper/atkp_amazon_helper_de.php:182
+#: includes/helper/atkp_amazon_helper_de.php:194
+#: includes/helper/atkp_amazon_helper_de.php:209
+#: includes/helper/atkp_amazon_helper_de.php:219
+#: includes/helper/atkp_amazon_helper_de.php:256
+#: includes/helper/atkp_amazon_helper_de.php:283
+#: includes/helper/atkp_amazon_helper_de.php:309
+#: includes/helper/atkp_amazon_helper_de.php:335
+#: includes/helper/atkp_amazon_helper_de.php:352
+#: includes/helper/atkp_amazon_helper_de.php:400
+#: includes/helper/atkp_amazon_helper_de.php:411
+#: includes/helper/atkp_amazon_helper_de.php:423
+#: includes/helper/atkp_amazon_helper_de.php:444
+#: includes/helper/atkp_amazon_helper_de.php:456
+#: includes/helper/atkp_amazon_helper_en.php:63
+#: includes/helper/atkp_amazon_helper_en.php:96
+#: includes/helper/atkp_amazon_helper_en.php:114
+#: includes/helper/atkp_amazon_helper_en.php:129
+#: includes/helper/atkp_amazon_helper_en.php:283
+#: includes/helper/atkp_amazon_helper_en.php:293
+#: includes/helper/atkp_amazon_helper_en.php:328
+#: includes/helper/atkp_amazon_helper_en.php:385
+#: includes/helper/atkp_amazon_helper_en.php:433
+msgid "-titlerank"
+msgstr "Alphabetisch (Z bis A)"
+
+#: includes/helper/atkp_amazon_helper_de.php:113
+#: includes/helper/atkp_amazon_helper_de.php:195
+#: includes/helper/atkp_amazon_helper_de.php:457
+#: includes/helper/atkp_amazon_helper_en.php:97
+#: includes/helper/atkp_amazon_helper_en.php:329
+msgid "-unit-sales"
+msgstr "Verkaufte Einheiten"
+
+#: includes/helper/atkp_amazon_helper_de.php:114
+#: includes/helper/atkp_amazon_helper_de.php:196
+#: includes/helper/atkp_amazon_helper_en.php:99
+#: includes/helper/atkp_amazon_helper_en.php:131
+msgid "inverse-pricerank"
+msgstr "Preis (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:116
+#: includes/helper/atkp_amazon_helper_de.php:198
+#: includes/helper/atkp_amazon_helper_en.php:101
+#: includes/helper/atkp_amazon_helper_en.php:132
+#: includes/helper/atkp_amazon_helper_en.php:262
+#: includes/helper/atkp_amazon_helper_en.php:274
+#: includes/helper/atkp_amazon_helper_en.php:421
+msgid "pricerank"
+msgstr "Preis (aufsteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:123
+msgid "Bürobedarf & Schreibwaren"
+msgstr "Bürobedarf & Schreibwaren"
+
+#: includes/helper/atkp_amazon_helper_de.php:133
+msgid "Computer & Zubehör"
+msgstr "Computer & Zubehör"
+
+#: includes/helper/atkp_amazon_helper_de.php:136
+msgid "launch_date"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:146
+msgid "DVD & Blu-ray"
+msgstr "DVD & Blu-ray"
+
+#: includes/helper/atkp_amazon_helper_de.php:156
+msgid "Drogerie & Körperpflege"
+msgstr "Drogerie & Körperpflege"
+
+#: includes/helper/atkp_amazon_helper_de.php:168
+msgid "Elektro-Großgeräte"
+msgstr "Elektro-Großgeräte"
+
+#: includes/helper/atkp_amazon_helper_de.php:179
+msgid "Elektronik & Foto"
+msgstr "Elektronik & Foto"
+
+#: includes/helper/atkp_amazon_helper_de.php:189
+msgid "Fremdsprachige Bücher"
+msgstr "Fremdsprachige Bücher"
+
+#: includes/helper/atkp_amazon_helper_de.php:205
+msgid "Games"
+msgstr "Games"
+
+#: includes/helper/atkp_amazon_helper_de.php:207
+#: includes/helper/atkp_amazon_helper_de.php:398
+#: includes/helper/atkp_amazon_helper_de.php:409
+msgid "-date"
+msgstr "Erscheinungsdatum (alt zu neu)"
+
+#: includes/helper/atkp_amazon_helper_de.php:216
+msgid "Garten"
+msgstr "Garten"
+
+#: includes/helper/atkp_amazon_helper_de.php:228
+msgid "Geschenkgutscheine"
+msgstr "Geschenkgutscheine"
+
+#: includes/helper/atkp_amazon_helper_de.php:240
+msgid "Haustier"
+msgstr "Haustier"
+
+#: includes/helper/atkp_amazon_helper_de.php:243
+msgid "-price-new-bin"
+msgstr "Preis (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:245
+msgid "price-new-bin"
+msgstr "Preis (aufsteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:253
+msgid "Kamera & Foto"
+msgstr "Kamera & Foto"
+
+#: includes/helper/atkp_amazon_helper_de.php:265
+msgid "Kindle-Shop"
+msgstr "Kindle-Shop"
+
+#: includes/helper/atkp_amazon_helper_de.php:267
+#: includes/helper/atkp_amazon_helper_en.php:303
+msgid "-edition-sales-velocity"
+msgstr "Schnell zu langsam verkaufende Produkte"
+
+#: includes/helper/atkp_amazon_helper_de.php:269
+#: includes/helper/atkp_amazon_helper_en.php:98
+#: includes/helper/atkp_amazon_helper_en.php:130
+#: includes/helper/atkp_amazon_helper_en.php:305
+#: includes/helper/atkp_amazon_helper_en.php:330
+msgid "daterank"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:277
+msgid "Klassik"
+msgstr "Klassik"
+
+#: includes/helper/atkp_amazon_helper_de.php:282
+#: includes/helper/atkp_amazon_helper_de.php:334
+#: includes/helper/atkp_amazon_helper_de.php:350
+#: includes/helper/atkp_amazon_helper_en.php:113
+#: includes/helper/atkp_amazon_helper_en.php:229
+msgid "-releasedate"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:285
+#: includes/helper/atkp_amazon_helper_de.php:337
+msgid "pubdate"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:286
+#: includes/helper/atkp_amazon_helper_de.php:338
+msgid "publication_date"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:294
+msgid "Koffer, Rucksäcke & Taschen "
+msgstr "Koffer, Rucksäcke & Taschen "
+
+#: includes/helper/atkp_amazon_helper_de.php:306
+msgid "Küche & Haushalt"
+msgstr "Küche & Haushalt"
+
+#: includes/helper/atkp_amazon_helper_de.php:318
+msgid "Lebensmittel & Getränke"
+msgstr "Lebensmittel & Getränke"
+
+#: includes/helper/atkp_amazon_helper_de.php:329
+msgid "Musik-CDs & Vinyl"
+msgstr "Musik-CDs & Vinyl"
+
+#: includes/helper/atkp_amazon_helper_de.php:339
+#: includes/helper/atkp_amazon_helper_en.php:120
+msgid "releasedate"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:345
+msgid "Musik-Downloads"
+msgstr "Musik-Downloads"
+
+#: includes/helper/atkp_amazon_helper_de.php:347
+msgid "-albumrank"
+msgstr "Album (Z bis A)"
+
+#: includes/helper/atkp_amazon_helper_de.php:348
+msgid "-artistalbumrank"
+msgstr "Künstler (Z bis A)"
+
+#: includes/helper/atkp_amazon_helper_de.php:351
+msgid "-runtime"
+msgstr "Tracklänge (aufsteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:353
+msgid "albumrank"
+msgstr "Album (A bis Z)"
+
+#: includes/helper/atkp_amazon_helper_de.php:354
+msgid "artistalbumrank"
+msgstr "Künstler (A bis Z)"
+
+#: includes/helper/atkp_amazon_helper_de.php:358
+msgid "runtime"
+msgstr "Tracklänge (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_de.php:364
+msgid "Musikinstrumente & DJ-Equipment"
+msgstr "Musikinstrumente & DJ-Equipment"
+
+#: includes/helper/atkp_amazon_helper_de.php:375
+msgid "Schmuck"
+msgstr "Schmuck"
+
+#: includes/helper/atkp_amazon_helper_de.php:385
+msgid "Schuhe & Handtaschen"
+msgstr "Schuhe & Handtaschen"
+
+#: includes/helper/atkp_amazon_helper_de.php:387
+#: includes/helper/atkp_amazon_helper_en.php:15
+#: includes/helper/atkp_amazon_helper_en.php:83
+#: includes/helper/atkp_amazon_helper_en.php:351
+msgid "-launch-date"
+msgstr "Erscheinungsdatum (alt zu neu)"
+
+#: includes/helper/atkp_amazon_helper_de.php:396
+#: includes/helper/atkp_amazon_helper_en.php:405
+msgid "Software"
+msgstr "Software"
+
+#: includes/helper/atkp_amazon_helper_de.php:407
+msgid "Spielzeug"
+msgstr "Spielzeug"
+
+#: includes/helper/atkp_amazon_helper_de.php:419
+msgid "Sport & Freizeit"
+msgstr "Sport & Freizeit"
+
+#: includes/helper/atkp_amazon_helper_de.php:422
+#: includes/helper/atkp_amazon_helper_en.php:341
+msgid "-release-date"
+msgstr "Erscheinungsdatum (alt zu neu)"
+
+#: includes/helper/atkp_amazon_helper_de.php:425
+#: includes/helper/atkp_amazon_helper_en.php:119
+msgid "release-date"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_de.php:433
+msgid "Technik & Wissenschaft"
+msgstr "Technik & Wissenschaft"
+
+#: includes/helper/atkp_amazon_helper_de.php:441
+msgid "Uhren"
+msgstr "Uhren"
+
+#: includes/helper/atkp_amazon_helper_de.php:453
+msgid "Zeitschriften"
+msgstr "Zeitschriften"
+
+#: includes/helper/atkp_amazon_helper_en.php:10
+msgid "All Departments"
+msgstr "Alle Abteilungen"
+
+#: includes/helper/atkp_amazon_helper_en.php:17
+msgid "-video-release-date"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_en.php:25
+msgid "Appliances"
+msgstr "Haushaltsgeräte"
+
+#: includes/helper/atkp_amazon_helper_en.php:37
+msgid "Apps & Games"
+msgstr "Apps & Spiele"
+
+#: includes/helper/atkp_amazon_helper_en.php:48
+msgid "Arts, Crafts & Sewing"
+msgstr "Kunst, Handwerk und Nähen"
+
+#: includes/helper/atkp_amazon_helper_en.php:60
+msgid "Automotive"
+msgstr "Automotive"
+
+#: includes/helper/atkp_amazon_helper_en.php:87
+#: includes/helper/atkp_amazon_helper_en.php:264
+#: includes/helper/atkp_amazon_helper_en.php:275
+#: includes/helper/atkp_amazon_helper_en.php:355
+#: includes/helper/atkp_amazon_helper_en.php:425
+msgid "sale-flag"
+msgstr "Verkaufs-Kennzeichnung"
+
+#: includes/helper/atkp_amazon_helper_en.php:92
+msgid "Books"
+msgstr "Bücher"
+
+#: includes/helper/atkp_amazon_helper_en.php:109
+msgid "CDs & Vinyl"
+msgstr "CDs & Vinyl"
+
+#: includes/helper/atkp_amazon_helper_en.php:111
+msgid "-orig-rel-date"
+msgstr "Ursprüngliche Veröffentlichung (neueste zuerst)"
+
+#: includes/helper/atkp_amazon_helper_en.php:115
+msgid "artistrank"
+msgstr "Künstlername (A bis Z)"
+
+#: includes/helper/atkp_amazon_helper_en.php:116
+msgid "orig-rel-date"
+msgstr "Ursprüngliche Veröffentlichung (ältere zuerst)"
+
+#: includes/helper/atkp_amazon_helper_en.php:127
+msgid "Cell Phones & Accessories"
+msgstr "Handys & Zubehör"
+
+#: includes/helper/atkp_amazon_helper_en.php:139
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Kleidung, Schuhe & Schmuck"
+
+#: includes/helper/atkp_amazon_helper_en.php:142
+#: includes/helper/atkp_amazon_helper_en.php:153
+#: includes/helper/atkp_amazon_helper_en.php:164
+#: includes/helper/atkp_amazon_helper_en.php:175
+#: includes/helper/atkp_amazon_helper_en.php:186
+#: includes/helper/atkp_amazon_helper_en.php:197
+#: includes/helper/atkp_amazon_helper_en.php:261
+#: includes/helper/atkp_amazon_helper_en.php:272
+#: includes/helper/atkp_amazon_helper_en.php:316
+#: includes/helper/atkp_amazon_helper_en.php:419
+msgid "launch-date"
+msgstr "Erscheinungsdatum (neu zu alt)"
+
+#: includes/helper/atkp_amazon_helper_en.php:150
+msgid "Clothing, Shoes & Jewelry - Baby"
+msgstr "Kleidung, Schuhe & Schmuck - Baby"
+
+#: includes/helper/atkp_amazon_helper_en.php:161
+msgid "Clothing, Shoes & Jewelry - Boys"
+msgstr "Kleidung, Schuhe & Schmuck - Jungs"
+
+#: includes/helper/atkp_amazon_helper_en.php:172
+msgid "Clothing, Shoes & Jewelry - Girls"
+msgstr "Kleidung, Schuhe & Schmuck - Mädchen"
+
+#: includes/helper/atkp_amazon_helper_en.php:183
+msgid "Clothing, Shoes & Jewelry - Men"
+msgstr "Kleidung, Schuhe & Schmuck - Mann"
+
+#: includes/helper/atkp_amazon_helper_en.php:194
+msgid "Clothing, Shoes & Jewelry - Women"
+msgstr "Kleidung, Schuhe & Schmuck - Damen"
+
+#: includes/helper/atkp_amazon_helper_en.php:205
+msgid "Collectibles & Fine Arts"
+msgstr "Sammlung & Kunst"
+
+#: includes/helper/atkp_amazon_helper_en.php:216
+msgid "Computers"
+msgstr "Computer"
+
+#: includes/helper/atkp_amazon_helper_en.php:226
+msgid "Digital Music"
+msgstr "Digitale Musik"
+
+#: includes/helper/atkp_amazon_helper_en.php:236
+msgid "Electronics"
+msgstr "Elektronik"
+
+#: includes/helper/atkp_amazon_helper_en.php:247
+msgid "Gift Cards"
+msgstr "Geschenkkarten"
+
+#: includes/helper/atkp_amazon_helper_en.php:258
+msgid "Grocery & Gourmet Food"
+msgstr "Lebensmittel & Gourmet Essen"
+
+#: includes/helper/atkp_amazon_helper_en.php:260
+#: includes/helper/atkp_amazon_helper_en.php:271
+#: includes/helper/atkp_amazon_helper_en.php:418
+msgid "inverseprice"
+msgstr "Preis (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_en.php:269
+msgid "Health & Personal Care"
+msgstr "Gesundheit & Körperpflege"
+
+#: includes/helper/atkp_amazon_helper_en.php:280
+msgid "Home & Kitchen"
+msgstr "Haushalt & Küche"
+
+#: includes/helper/atkp_amazon_helper_en.php:290
+msgid "Industrial & Scientific"
+msgstr "Industrie & Forschung"
+
+#: includes/helper/atkp_amazon_helper_en.php:301
+msgid "Kindle Store"
+msgstr "Kindle Shop"
+
+#: includes/helper/atkp_amazon_helper_en.php:313
+msgid "Luggage & Travel Gear"
+msgstr "Gepäck & Reisegepäck"
+
+#: includes/helper/atkp_amazon_helper_en.php:324
+msgid "Magazine Subscriptions"
+msgstr "Magazin-Abonnements"
+
+#: includes/helper/atkp_amazon_helper_en.php:333
+msgid "subslot-salesrank"
+msgstr "Meistverkauft"
+
+#: includes/helper/atkp_amazon_helper_en.php:338
+msgid "Movies & TV"
+msgstr "Filme & TV"
+
+#: includes/helper/atkp_amazon_helper_en.php:349
+msgid "Musical Instruments"
+msgstr "Musikinstrumente"
+
+#: includes/helper/atkp_amazon_helper_en.php:360
+msgid "Office Products"
+msgstr "Büroartikel"
+
+#: includes/helper/atkp_amazon_helper_en.php:371
+msgid "Patio, Lawn & Garden"
+msgstr "Terrasse, Rasen und Garten"
+
+#: includes/helper/atkp_amazon_helper_en.php:382
+msgid "Pet Supplies"
+msgstr "Haustierzubehör"
+
+#: includes/helper/atkp_amazon_helper_en.php:387
+msgid "relevance"
+msgstr "Relevanz"
+
+#: includes/helper/atkp_amazon_helper_en.php:396
+msgid "Prime Pantry"
+msgstr "Prime Pantry"
+
+#: includes/helper/atkp_amazon_helper_en.php:415
+msgid "Sports & Outdoors"
+msgstr "Sport und Freizeit"
+
+#: includes/helper/atkp_amazon_helper_en.php:422
+msgid "relevance-fs-rank"
+msgstr ""
+
+#: includes/helper/atkp_amazon_helper_en.php:430
+msgid "Tools & Home Improvement"
+msgstr "Werkzeug & Heimwerkerbedarf"
+
+#: includes/helper/atkp_amazon_helper_en.php:441
+msgid "Toys & Games"
+msgstr "Spielzeug & Spiele"
+
+#: includes/helper/atkp_amazon_helper_en.php:443
+msgid "-age-min"
+msgstr "Alter (absteigend)"
+
+#: includes/helper/atkp_amazon_helper_en.php:452
+msgid "Video Games"
+msgstr "Videospiele"
+
+#: includes/helper/atkp_amazon_helper_en.php:462
+msgid "Wine"
+msgstr "Wein"
+
+#: includes/helper/atkp_amazon_helper_en.php:469
+msgid "reviewscore"
+msgstr "Bewertung"
+
+#: includes/helper/atkp_control_helper.php:60
+#: includes/helper/atkp_control_helper.php:156
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/helper/atkp_control_helper.php:61
+#: includes/helper/atkp_control_helper.php:157
+msgid "No"
+msgstr "Nein"
+
+#: includes/helper/atkp_template_helper.php:164
+#: includes/helper/atkp_template_helper.php:169
+#: includes/helper/atkp_template_helper.php:732
+#: includes/helper/atkp_template_helper.php:739
+msgid "not available"
+msgstr "Preis nicht verfügbar"
+
+#: includes/helper/atkp_template_helper.php:166
+#: includes/helper/atkp_template_helper.php:729
+#: includes/helper/atkp_template_helper.php:734
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/helper/atkp_template_helper.php:171
+#: includes/helper/atkp_template_helper.php:741
+#, php-format
+msgid "Price: %s"
+msgstr "Preis: %s"
+
+#: includes/helper/atkp_template_helper.php:190
+#: includes/helper/atkp_template_helper.php:558
+msgid "Buy now"
+msgstr "Jetzt kaufen"
+
+#: includes/helper/atkp_template_helper.php:213
+msgid "Shipping: N/A"
+msgstr "Versand: n. a."
+
+#: includes/helper/atkp_template_helper.php:215
+#, php-format
+msgid "Shipping: %s"
+msgstr "Versand: %s"
+
+#: includes/helper/atkp_template_helper.php:218
+msgid "Availability: N/A"
+msgstr "Verfügbarkeit: n. a."
+
+#: includes/helper/atkp_template_helper.php:220
+#, php-format
+msgid "Availability: %s"
+msgstr "Verfügbarkeit: %s"
+
+#: includes/helper/atkp_template_helper.php:223
+msgid "Bestprice"
+msgstr "Bestpreis"
+
+#: includes/helper/atkp_template_helper.php:415
+#, php-format
+msgid "%s offer"
+msgstr "%s Angebot"
+
+#: includes/helper/atkp_template_helper.php:415
+#, php-format
+msgid "%s offers"
+msgstr "%s Angebote"
+
+#: includes/helper/atkp_template_helper.php:454
+#: includes/helper/atkp_template_helper.php:456
+#: includes/helper/atkp_template_helper.php:458
+msgid "../../images/image-not-found.jpg"
+msgstr ""
+
+#: includes/helper/atkp_template_helper.php:469
+#: includes/helper/atkp_template_helper.php:471
+#, php-format
+msgid "by %s"
+msgstr "von %s"
+
+#: includes/helper/atkp_template_helper.php:509
+#: includes/helper/atkp_template_helper.php:511
+msgid "Show me more products"
+msgstr "Zeige mir mehr Produkte!"
+
+#: includes/helper/atkp_template_helper.php:546
+msgid "Add to cart"
+msgstr "In den Warenkorb"
+
+#: includes/helper/atkp_template_helper.php:549
+#: includes/shopproviders/atkp_shop_provider_amazon.php:26
+msgid "Add to Amazon Cart"
+msgstr "Zum Amazon Warenkorb hinzufügen"
+
+#: includes/helper/atkp_template_helper.php:561
+#: includes/shopproviders/atkp_shop_provider_amazon.php:22
+msgid "Buy now at Amazon"
+msgstr "Jetzt auf Amazon kaufen"
+
+#: includes/helper/atkp_template_helper.php:598
+#, php-format
+msgid "#%s Best Seller"
+msgstr "Bestseller Nr. %s"
+
+#: includes/helper/atkp_template_helper.php:603
+#, php-format
+msgid "#%s"
+msgstr "Nr. %s"
+
+#: includes/helper/atkp_template_helper.php:620
+#, php-format
+msgid "%s out of 5 stars"
+msgstr "%s von 5 Sternen"
+
+#: includes/helper/atkp_template_helper.php:634
+msgid "Show review"
+msgstr "Bericht anzeigen"
+
+#: includes/helper/atkp_template_helper.php:650
+msgid "Show customer reviews"
+msgstr "Kundenbewertungen"
+
+#: includes/helper/atkp_template_helper.php:651
+#, php-format
+msgid "%s customer reviews"
+msgstr "%s Bewertungen"
+
+#: includes/helper/atkp_template_helper.php:652
+msgid "1 customer review"
+msgstr "1 Bewertung"
+
+#: includes/helper/atkp_template_helper.php:689
+msgid "Prime"
+msgstr "Prime"
+
+#: includes/helper/atkp_template_helper.php:692
+msgid "More about prime"
+msgstr "Mehr über Prime erfahren"
+
+#: includes/helper/atkp_template_helper.php:719
+#, php-format
+msgid "You Save: %s"
+msgstr "Du sparst: %s"
+
+#: includes/helper/atkp_template_helper.php:724
+#, php-format
+msgid "List Price: %s"
+msgstr "Unverb. Preisempf.: %s"
+
+#: includes/helper/atkp_template_helper.php:814
+msgid "Price incl. VAT., Excl. Shipping"
+msgstr "Preis inkl. MwSt., zzgl. Versandkosten"
+
+#: includes/helper/atkp_template_helper.php:962
+msgid "Refresh date"
+msgstr "Aktualisierungsdatum"
+
+#: includes/helper/atkp_template_helper.php:965
+msgid "Refresh time"
+msgstr "Aktualisierungszeit"
+
+#: includes/helper/atkp_template_helper.php:971
+msgid "Shop Title"
+msgstr "Shoptitel"
+
+#: includes/helper/atkp_template_helper.php:974
+msgid "Small Shop Logo"
+msgstr "Shoplogo (klein)"
+
+#: includes/helper/atkp_template_helper.php:977
+msgid "Shop Logo"
+msgstr "Shoplogo"
+
+#: includes/helper/atkp_template_helper.php:983
+msgid "Title Short"
+msgstr "Titel (kurz)"
+
+#: includes/helper/atkp_template_helper.php:986
+msgid "ASIN"
+msgstr "Eindeutige ID"
+
+#: includes/helper/atkp_template_helper.php:998
+msgid "Productgroup"
+msgstr "Produktgruppe"
+
+#: includes/helper/atkp_template_helper.php:1013
+msgid "Small image"
+msgstr "Bild klein"
+
+#: includes/helper/atkp_template_helper.php:1016
+msgid "Medium image"
+msgstr "Bild mittel"
+
+#: includes/helper/atkp_template_helper.php:1019
+msgid "Large image"
+msgstr "Bild groß"
+
+#: includes/helper/atkp_template_helper.php:1029
+#, php-format
+msgid "Small image %s"
+msgstr "Bild klein %s"
+
+#: includes/helper/atkp_template_helper.php:1038
+#, php-format
+msgid "Medium image %s"
+msgstr "Bild mittel %s"
+
+#: includes/helper/atkp_template_helper.php:1047
+#, php-format
+msgid "Large image %s"
+msgstr "Bild groß %s"
+
+#: includes/helper/atkp_template_helper.php:1050
+msgid "\"by\"-Text"
+msgstr "\"von\"-Text"
+
+#: includes/helper/atkp_template_helper.php:1065
+msgid "Star Rating"
+msgstr "Sterne-Bewertung"
+
+#: includes/helper/atkp_template_helper.php:1077
+msgid "(Percentage saved)"
+msgstr "(Prozent gespart)"
+
+#: includes/helper/atkp_template_helper.php:1080
+msgid "You Save"
+msgstr "Du sparst"
+
+#: includes/helper/atkp_template_helper.php:1089
+msgid "Listprice (Text)"
+msgstr "Listenpreis (Text)"
+
+#: includes/helper/atkp_template_helper.php:1092
+msgid "Price"
+msgstr "Preis"
+
+#: includes/helper/atkp_template_helper.php:1095
+msgid "Price (Text)"
+msgstr "Preis (Text)"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:14
+msgid "Amazon Product Advertising API"
+msgstr "Amazon Product Advertising API"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:127
+#: includes/shopproviders/atkp_shop_provider_amazon.php:228
+#: includes/shopproviders/atkp_shop_provider_amazon.php:384
+msgid "Amazon"
+msgstr "Amazon"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:274
+msgid "Amazon Access Key ID"
+msgstr "Amazon Access Key ID"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:281
+msgid ""
+"<a href=\"%link_get-amazon-apikey%\" target=\"_blank\">More information</a>"
+msgstr ""
+"<a href=\"%link_get-amazon-apikey%\" target=\"_blank\">Mehr Informationen</a>"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:288
+msgid "Amazon Secret Access Key"
+msgstr "Amazon Secret Access Key"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:298
+msgid "Amazon Website"
+msgstr "Amazon Webseite"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:307
+msgid "Amazon Germany"
+msgstr "Amazon Deutschland"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:308
+msgid "Amazon United States"
+msgstr "Amazon Vereinigte Staaten"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:309
+msgid "Amazon United Kingdom"
+msgstr "Amazon Vereinigtes Königreich"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:310
+msgid "Amazon Canada"
+msgstr "Amazon Kanada"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:311
+msgid "Amazon France"
+msgstr "Amazon Frankreich"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:312
+msgid "Amazon Japan"
+msgstr "Amazon Japan"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:313
+msgid "Amazon Italy"
+msgstr "Amazon Italien"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:314
+msgid "Amazon China"
+msgstr "Amazon China"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:315
+msgid "Amazon Spain"
+msgstr "Amazon Spanien"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:316
+msgid "Amazon India"
+msgstr "Amazon Indien"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:317
+msgid "Amazon Brazil"
+msgstr "Amazon Brasilien"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:336
+msgid "Amazon Tracking ID"
+msgstr "Amazon Tracking ID"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:350
+msgid "Enable SSL for pictures"
+msgstr "SSL für Produktbilder aktivieren"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:364
+msgid "Load customer reviews"
+msgstr "Kundenbewertungen laden"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:386
+msgid "Amazon Marketplace"
+msgstr "Amazon Marktplatz"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:388
+msgid "Amazon and Amazon Marketplace"
+msgstr "Amazon and Amazon Marktplatz"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:743
+msgid "Not selected"
+msgstr "Nicht gewählt"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:744
+msgid "Keywords"
+msgstr "Schlüsselbegriff"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:745
+msgid "SearchIndex"
+msgstr "SearchIndex"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:746
+msgid "Sort"
+msgstr "Sortierung"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:751
+msgid "Power"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:752
+msgid "RelationshipType"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:754
+msgid "Actor"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:755
+msgid "Artist"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:759
+msgid "Composer"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:760
+#: includes/shopproviders/atkp_shop_provider_amazon.php:762
+msgid "Conductor"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:761
+msgid "Director"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:765
+msgid "MaximumPrice"
+msgstr "Maximaler Preis"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:766
+msgid "MinimumPrice"
+msgstr "Minimaler Preis"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:767
+msgid "MinPercentageOff"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:769
+msgid "Orchestra"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:770
+msgid "Publisher"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:772
+msgid "Condition"
+msgstr "Bedingung"
+
+#: includes/shopproviders/atkp_shop_provider_amazon.php:773
+msgid "MerchantId"
+msgstr ""
+
+#: includes/shopproviders/atkp_shop_provider_base.php:116
+msgid "Custom Field 1"
+msgstr "Benutzerdefiniertes Feld 1"
+
+#: includes/shopproviders/atkp_shop_provider_base.php:128
+msgid "Custom Field 2"
+msgstr "Benutzerdefiniertes Feld 2"
+
+#: includes/shopproviders/atkp_shop_provider_base.php:140
+msgid "Custom Field 3"
+msgstr "Benutzerdefiniertes Feld 3"
+
+#: includes/shopproviders/atkp_shop_provider_base.php:156
+#: includes/shopproviders/atkp_shop_provider_base.php:160
+#, php-format
+msgid "Buy now at %s!"
+msgstr "Jetzt kaufen bei %s!"
+
+#: templates/moreoffers.php:14
+msgid "More offers »"
+msgstr "Mehr Angebote »"
+
+#~ msgid "Bulk import"
+#~ msgstr "Produktimport"
+
+#~ msgid "Create with this key"
+#~ msgstr "Mit diesem Key erstellen"
+
+#~ msgid "ASIN(s)"
+#~ msgstr "ASIN(s)"
+
+#~ msgid "EAN(s)"
+#~ msgstr "EAN(s)"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Custom Fields"
+#~ msgstr "Benutzerdefinierte Felder"
+
+#~ msgid "Import as draft"
+#~ msgstr "Als Entwurf importieren"
+
+#~ msgid "Import and publish"
+#~ msgstr "Importieren und veröffentlichen"
+
+#~ msgid "Import for WooCommerce"
+#~ msgstr "Import für WooCommerce"
+
+#~ msgid "Last page"
+#~ msgstr "Letzte Seite"
+
+#~ msgid "Next page"
+#~ msgstr "Nächste Seite"
+
+#~ msgid "Productpage"
+#~ msgstr "Produktseite"
+
+#~ msgid "Amazon Simple Affiliate 2"
+#~ msgstr "Amazon Simple Affiliate 2"
+
+#~ msgid "Import template"
+#~ msgstr "Vorlage importieren"
+
+#~ msgid "Import lists"
+#~ msgstr "Listen importieren"
+
+#~ msgid "Import products"
+#~ msgstr "Produkte importieren"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Product description (default)"
+#~ msgstr "Produktbeschreibung (Standard)"
+
+#~ msgid "Category - New Releases"
+#~ msgstr "Kategorie - Neuerscheinungen"
+
+#~ msgid "Similarity - Find similar products"
+#~ msgstr "Ähnliche Produkte - Finde ähnliche Produkte"
+
+#~ msgid "Prefer local product information"
+#~ msgstr "Lokale Produktinformationen bevorzugen"
+
+#~ msgid "Load offers from other shops (slower)"
+#~ msgstr "Weitere Angebote aus anderen Shops laden (langsamer)"
+
+#~ msgid "Title filter (one keyword per line)"
+#~ msgstr "Titel-Filter (ein Schlüsselbegriff pro Zeile)"
+
+#~ msgid "More Offers"
+#~ msgstr "Mehr Angebote"
+
+#~ msgid "Disable Hover-Link"
+#~ msgstr "Hover-Link deaktivieren"
+
+#~ msgid "Is WooCommerce product"
+#~ msgstr "Ist ein WooCommerce-Produkt"
+
+#~ msgid "Post"
+#~ msgstr "Beitrag"
+
+#~ msgid "edit post"
+#~ msgstr "Beitrag bearbeiten"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">%s</a> "
+#~ msgstr "<a href=\"%s\" target=\"_blank\">%s</a> "
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">%s</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">%s</a>"
+
+#~ msgid "This Product is not used as a main product"
+#~ msgstr "Dieses Produkt wird bei keinem Beitrag als Hauptprodukt verwendet."
+
+#~ msgid "Output description and features as html. Ignores substring settings."
+#~ msgstr ""
+#~ "Beschreibung und Eigenschaften als HTML ausgeben. Übersteuert die "
+#~ "Kürzungsfunktion aus den Einstellungen."
+
+#~ msgid "Predicate"
+#~ msgstr "Plakette"
+
+#~ msgid "Winner"
+#~ msgstr "Sieger"
+
+#~ msgid "Price Tip"
+#~ msgstr "Preistipp"
+
+#~ msgid "Custom"
+#~ msgstr "Leistungstipp"
+
+#~ msgid "Testresult"
+#~ msgstr "Unsere Bewertung"
+
+#~ msgid "Very good"
+#~ msgstr "Sehr gut"
+
+#~ msgid "Good"
+#~ msgstr "Gut"
+
+#~ msgid "Satisfying"
+#~ msgstr "Befriedigend"
+
+#~ msgid "Enough"
+#~ msgstr "Genügend"
+
+#~ msgid "Insufficient"
+#~ msgstr "Nicht Genügend"
+
+#~ msgid "Testrating"
+#~ msgstr "Testbewertung"
+
+#~ msgid "Testdate"
+#~ msgstr "Testdatum"
+
+#~ msgid "Pro (per line)"
+#~ msgstr "Pro (pro Zeile)"
+
+#~ msgid "Contra (per line)"
+#~ msgstr "Kontra (pro Zeile)"
+
+#~ msgid "reload more offers on save"
+#~ msgstr "Mehr Angebote beim Speichern aktualiseren"
+
+#~ msgid "reload more offers regulary"
+#~ msgstr "Mehr Angebote regelmäßig aktualisieren"
+
+#~ msgid ""
+#~ "Note: Offers are loaded in cronjob (background) or when you check "
+#~ "\"reload more offers on save\"."
+#~ msgstr ""
+#~ "Hinweis: Weitere Angebote werden durch den Cronjob (Hintergrundprozess) "
+#~ "aktualisiert. Durch anhaken der Auswahlbox \"Mehr Angebote beim Speichern "
+#~ "aktualisieren\" werden die Angebote beim Speichern sofort aktualisiert."
+
+#~ msgid "Search unique productid and add"
+#~ msgstr "Eindeutige Produkt-ID suchen und hinzufügen"
+
+#~ msgid "Shop <br /> Number"
+#~ msgstr "Shop <br /> Nummer"
+
+#~ msgid "Price <br />Shipping <br /> Availability"
+#~ msgstr "Preis <br />Versand <br /> Verfügbarkeit"
+
+#~ msgid "Hide offer"
+#~ msgstr "Angebot verstecken"
+
+#~ msgid "Enabled for Offer Autoload"
+#~ msgstr "Angebote automatisch (über EAN) in diesem Shop suchen"
+
+#~ msgid "Hold Shop on top"
+#~ msgstr "Shop im Preisvergleich oben halten"
+
+#~ msgid "Custom Field 1 (html)"
+#~ msgstr "Benutzerdefiniertes Feld 1 (html)"
+
+#~ msgid "Custom Field 2 (html)"
+#~ msgstr "Benutzerdefiniertes Feld 2 (html)"
+
+#~ msgid "Custom Field 3 (html)"
+#~ msgstr "Benutzerdefiniertes Feld 3 (html)"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Export"
+#~ msgstr "Exportieren"
+
+#~ msgid "Templates"
+#~ msgstr "Vorlagen"
+
+#~ msgid "Add New Template"
+#~ msgstr "Neue Vorlage hinzufügen"
+
+#~ msgid "Edit Template"
+#~ msgstr "Vorlage bearbeiten"
+
+#~ msgid "New Template"
+#~ msgstr "Neue Vorlage"
+
+#~ msgid "View Template"
+#~ msgstr "Vorlage ansehen"
+
+#~ msgid "Search Templates"
+#~ msgstr "Vorlage suchen"
+
+#~ msgid "Template Information"
+#~ msgstr "Vorlageninformation"
+
+#~ msgid "Template Placeholdes"
+#~ msgstr "Vorlagenplatzhalter"
+
+#~ msgid "product template"
+#~ msgstr "Produktvorlage"
+
+#~ msgid "offer template"
+#~ msgstr "Angebotsvorlage"
+
+#~ msgid "images template"
+#~ msgstr "Bildgalerievorlage"
+
+#~ msgid "Caption"
+#~ msgstr "Bezeichnung"
+
+#~ msgid "View"
+#~ msgstr "Ansicht"
+
+#~ msgid "CSS Class"
+#~ msgstr "CSS Klasse"
+
+#~ msgid "Detail"
+#~ msgstr "Detail"
+
+#~ msgid "desktop and mobile"
+#~ msgstr "Desktop und Mobil"
+
+#~ msgid "desktop"
+#~ msgstr "Desktop"
+
+#~ msgid "mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Move Up"
+#~ msgstr "Nach oben"
+
+#~ msgid "Move Down"
+#~ msgstr "Nach unten"
+
+#~ msgid "Add Comparevalue"
+#~ msgstr "Vergleichswert hinzufügen"
+
+#~ msgid "Viewtype"
+#~ msgstr "Ansichtsart"
+
+#~ msgid "Max products"
+#~ msgstr "Maximale Produkte"
+
+#~ msgid "Max mobile products"
+#~ msgstr "Maximale Produkte (Mobil)"
+
+#~ msgid "Hide desktop headers"
+#~ msgstr "Kopfspalte ausblenden (Desktop)"
+
+#~ msgid "Mobile template"
+#~ msgstr "Mobile Vorlage"
+
+#~ msgid "Extended view"
+#~ msgstr "Erweiterte Ansicht"
+
+#~ msgid "Header"
+#~ msgstr "Kopf"
+
+#~ msgid "Row Header"
+#~ msgstr "Zeilenkopf"
+
+#~ msgid "Detail Header"
+#~ msgstr "Detail Kopf"
+
+#~ msgid "Detail Footer"
+#~ msgstr "Detail Fuß"
+
+#~ msgid "Row Footer"
+#~ msgstr "Zeilenfuß"
+
+#~ msgid "Footer"
+#~ msgstr "Fuß"
+
+#~ msgid "CSS-Style"
+#~ msgstr "CSS-Style"
+
+#~ msgid "Disable disclaimer"
+#~ msgstr "Haftungsausschluss deaktivieren"
+
+#~ msgid "Include main offer"
+#~ msgstr "Primäres Angebot ebenfalls anzeigen"
+
+#~ msgid "Filter target"
+#~ msgstr "Filter Zielseite"
+
+#~ msgid "Please create a product."
+#~ msgstr "Bitte erstelle ein Produkt."
+
+#~ msgid "Open links with javascript function"
+#~ msgstr ""
+#~ "Affiliate-Links mit Javascript öffnen (zeigt das Linkziel im Browser "
+#~ "nicht an)"
+
+#~ msgid "Click tracking"
+#~ msgstr "Klick Verfolgung"
+
+#~ msgid "Nein"
+#~ msgstr "Nein"
+
+#~ msgid "Google Universal Tracking"
+#~ msgstr "Google Universal Tracking"
+
+#~ msgid "Google Standard Tracking"
+#~ msgstr "Google Standard Tracking"
+
+#~ msgid "Shortcode-Generator post-types"
+#~ msgstr "Shortcode-Generator in diesen Posttypen verwenden"
+
+#~ msgid "Affiliate Toolkit - Custom Fields"
+#~ msgstr "Affiliate Toolkit - Benutzerdefinierte Felder"
+
+#~ msgid "Setup custom fields for product"
+#~ msgstr "Benutzerdefinierte Felder für Produkte"
+
+#~ msgid "Add Field"
+#~ msgstr "Feld hinzufügen"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "Multiline"
+#~ msgstr "Mehrzeiliger Text"
+
+#~ msgid "Dropdown"
+#~ msgstr "Auswahlfeld"
+
+#~ msgid "Yes/No"
+#~ msgstr "Ja/Nein"
+
+#~ msgid "Html"
+#~ msgstr "Html"
+
+#~ msgid "Remove Field"
+#~ msgstr "Feld entfernen"
+
+#~ msgid "Setup custom taxonomies for product"
+#~ msgstr "Benutzerdefinierte Taxonomien für das Produkt"
+
+#~ msgid "manufacturer taxonomy"
+#~ msgstr "Hersteller Taxonomie"
+
+#~ msgid "author taxonomy"
+#~ msgstr "Buchautor Taxonomie"
+
+#~ msgid "brand taxonomy"
+#~ msgstr "Marken Taxonomie"
+
+#~ msgid "Add taxonomy"
+#~ msgstr "Taxonomie hinzufügen"
+
+#~ msgid "Add Taxonomy"
+#~ msgstr "Taxonomie hinzufügen"
+
+#~ msgid "Caption plural"
+#~ msgstr "Bezeichnung (plural)"
+
+#~ msgid "Remove taxonomy"
+#~ msgstr "Taxonomie löschen"
+
+#~ msgid ""
+#~ "Note: Subsequent renaming taxonomy is not supported. After changing the "
+#~ "taxonomies re storing the permalinks is necessary (Settings-> Permalinks-"
+#~ "> Save Changes)."
+#~ msgstr ""
+#~ "Notiz: Nachträgliche Umbennenung der Taxanomien wird nicht unterstützt. "
+#~ "Nach Ändern der Taxonomien ist ein erneutes Speichern der Permalinks "
+#~ "notwendig (Einstellungen->Permalinks->Änderungen speichern)."
+
+#~ msgid "Advanced Custom Fields Plugin"
+#~ msgstr "Advanced Custom Fields Plugin"
+
+#~ msgid "Enable Advanced Custom Fields Support"
+#~ msgstr "Aktiviere \"Advanced Custom Fields\"-Unterstützung"
+
+#~ msgid ""
+#~ "<a href=\"%link_customfields%\" target=\"_blank\">More information</a>"
+#~ msgstr ""
+#~ "<a href=\"%link_mark-affiliate-links%\" target=\"_blank\">Mehr "
+#~ "Informationen</a>"
+
+#~ msgid "Linking Prime logo"
+#~ msgstr "Prime-Logo verknüpfen"
+
+#~ msgid "Custom Classic Button"
+#~ msgstr "Benutzerdefinierter klassischer Button"
+
+#~ msgid "Custom Flat Button"
+#~ msgstr "Benutzerdefinierter flacher Button"
+
+#~ msgid "Button Background Top"
+#~ msgstr "Button-Hintergrundfarbe Oben"
+
+#~ msgid "Button Background Bottom"
+#~ msgstr "Button-Hintergrundfarbe Unten"
+
+#~ msgid "Button Foreground"
+#~ msgstr "Button-Vordergrundfarbe"
+
+#~ msgid "Button Border"
+#~ msgstr "Button Randfarbe"
+
+#~ msgid "Show More Offers"
+#~ msgstr "Mehr Angebote anzeigen"
+
+#~ msgid "More Offers Template"
+#~ msgstr "\"Mehr Angebote\"-Vorlage"
+
+#~ msgid "More Offers text"
+#~ msgstr "\"Mehr Angebote\"-Text"
+
+#~ msgid "Hover Linkinfo"
+#~ msgstr "Hover-Linkinformation"
+
+#~ msgid "Show Link Info"
+#~ msgstr "Hover-Linkinformation anzeigen"
+
+#~ msgid "Link Info Template"
+#~ msgstr "Linkinformation Vorlage"
+
+#~ msgid "Productpage text"
+#~ msgstr "\"Zum Produkt\"-Text"
+
+#~ msgid "Yes symbol"
+#~ msgstr "Ja-Symbol"
+
+#~ msgid "No symbol"
+#~ msgstr "Nein-Symbol"
+
+#~ msgid "Own reviews"
+#~ msgstr "Eigene Bewertungen"
+
+#~ msgid "Predicate 1"
+#~ msgstr "Plakette 1"
+
+#~ msgid "Predicate 2"
+#~ msgstr "Plakette 2"
+
+#~ msgid "Predicate 3"
+#~ msgstr "Plakette 3"
+
+#~ msgid "Review text"
+#~ msgstr "Bewertungstext"
+
+#~ msgid "Review"
+#~ msgstr "Bewertung"
+
+#~ msgid "Test score 1"
+#~ msgstr "Testergebnis 1"
+
+#~ msgid "Test score 2"
+#~ msgstr "Testergebnis 2"
+
+#~ msgid "Test score 3"
+#~ msgstr "Testergebnis 3"
+
+#~ msgid "Test score 4"
+#~ msgstr "Testergebnis 4"
+
+#~ msgid "Test score 5"
+#~ msgstr "Testergebnis 5"
+
+#~ msgid "Default entry count"
+#~ msgstr "Anzahl der Einträge in den Listen (Standard)"
+
+#~ msgid "Affiliate Toolkit - Import"
+#~ msgstr "Affiliate Toolkit - Importieren"
+
+#~ msgid "Select template for import"
+#~ msgstr "Vorlage für Import auswählen"
+
+#~ msgid "Select template file"
+#~ msgstr "Vorlagendatei wählen"
+
+#~ msgid "<a href=\"%s\">open imported template</a>"
+#~ msgstr "<a href=\"%s\">Importierte Vorlage öffnen</a>"
+
+#~ msgid "Affiliate Toolkit - Productpage Settings"
+#~ msgstr "Affiliate Toolkit - Produktseiten Einstellungen"
+
+#~ msgid "Productpage enabled"
+#~ msgstr "Produktseiten aktiviert"
+
+#~ msgid "Product slug"
+#~ msgstr "Produkt-Slug"
+
+#~ msgid "Post thumbnail"
+#~ msgstr "Beitragsbild"
+
+#~ msgid "No image from plugin"
+#~ msgstr "Kein Bild über das Affiliate-Toolkit einfügen"
+
+#~ msgid "Import main image"
+#~ msgstr "Beitragsbild importieren"
+
+#~ msgid "Use external main image"
+#~ msgstr "Externes Beitragsbild verwenden"
+
+#~ msgid "Allow comments"
+#~ msgstr "Kommentare erlauben"
+
+#~ msgid "Product template:"
+#~ msgstr "Produktvorlage:"
+
+#~ msgid ""
+#~ "<div class=\"atkp-page\">\n"
+#~ "[atkp_product template='secondwide'][/atkp_product][atkp_product "
+#~ "field='content'][/atkp_product]\n"
+#~ "<br />\n"
+#~ "%content%\n"
+#~ "<h2>Features</h2>\n"
+#~ "[atkp_product field='info_text'][/atkp_product]\n"
+#~ "<br />\n"
+#~ "<h2>Available offers</h2>\n"
+#~ "[atkp_product template='detailoffers'][/atkp_product] <br />Last Updated "
+#~ "on [atkp_product field='refresh_date'] at [atkp_product "
+#~ "field='refresh_time'].</div>"
+#~ msgstr ""
+#~ "<div class=\"atkp-page\">\n"
+#~ "[atkp_product template='secondwide'][/atkp_product][atkp_product "
+#~ "field='content'][/atkp_product]\n"
+#~ "<br />\n"
+#~ "%content%\n"
+#~ "<h2>Eigenschaften</h2>\n"
+#~ "[atkp_product field='info_text'][/atkp_product]\n"
+#~ "<br />\n"
+#~ "<h2>Verfügbare Angebote</h2>\n"
+#~ "[atkp_product template='detailoffers'][/atkp_product] <br />Zuletzt "
+#~ "aktualisiert am [atkp_product field='refresh_date'] um [atkp_product "
+#~ "field='refresh_time'].</div>"
+
+#~ msgid "Product archive template:"
+#~ msgstr "Produktarchiv Vorlage:"
+
+#~ msgid "[atkp_product field='info_text'][/atkp_product]%content%"
+#~ msgstr "[atkp_product field='info_text'][/atkp_product]%content%"
+
+#~ msgid ""
+#~ "Note: After activating the product page or change the product slugs re "
+#~ "storing the permalinks is necessary (Settings-> Permalinks-> Save "
+#~ "Changes)."
+#~ msgstr ""
+#~ "Nach Aktivierung der Produktseite oder Änderung der Produktslugs ist ein "
+#~ "erneutes Speichern der Permalinks notwendig (Einstellungen->Permalinks-"
+#~ ">Änderungen speichern)."
+
+#~ msgid "External Cronjob"
+#~ msgstr "Externer Cronjob"
+
+#~ msgid "External Cronjob + Output"
+#~ msgstr "Externer Cronjob mit Ausgabe"
+
+#~ msgid "Last activity: %s"
+#~ msgstr "Letzte Aktivität: %s"
+
+#~ msgid "Settings for data check"
+#~ msgstr "Einstellungen für die Datenüberprüfung"
+
+#~ msgid "Enable data check"
+#~ msgstr "Datenüberprüfung einschalten"
+
+#~ msgid "check interval"
+#~ msgstr "Überprüfungsintervall"
+
+#~ msgid "Email recipient"
+#~ msgstr "E-Mail-Berichtsempfänger"
+
+#~ msgid "CSV Import intervall"
+#~ msgstr "CSV-Import-Intervall"
+
+#~ msgid "import list is empty"
+#~ msgstr "Die Import-Liste ist leer."
+
+#~ msgid "importing..."
+#~ msgstr "Importiere..."
+
+#~ msgid "CSV (one list per line)"
+#~ msgstr "CSV (eine Liste pro Zeile)"
+
+#~ msgid "WooCommmerce Plugin is not installed"
+#~ msgstr "WooCommmerce Plugin ist nicht installiert"
+
+#~ msgid "WooCommerce mode"
+#~ msgstr "WooCommerce Modus"
+
+#~ msgid "Disabled"
+#~ msgstr "Ausgeschaltet"
+
+#~ msgid "affiliate-toolkit->WooCommerce"
+#~ msgstr "affiliate-toolkit->WooCommerce"
+
+#~ msgid "WooCommerce->affiliate-toolkit"
+#~ msgstr "WooCommerce->affiliate-toolkit"
+
+#~ msgid "Consumer Key"
+#~ msgstr "Consumer Key (API Schlüssel)"
+
+#~ msgid "Consumer Secret:"
+#~ msgstr "Consumer Secret (API Geheimnis)"
+
+#~ msgid "Activate Pricecompare tab"
+#~ msgstr "Preisvergleichs-Tab für WooCommerce aktivieren"
+
+#~ msgid "Pricecompare tab template"
+#~ msgstr "Preisvergleichs-Tab-Vorlage"
+
+#~ msgid "Regular Price"
+#~ msgstr "Regulärer Preis"
+
+#~ msgid "Minimum Price"
+#~ msgstr "Kleinster Preis"
+
+#~ msgid "Maximum Price"
+#~ msgstr "Höchster Preis"
+
+#~ msgid "Sale Price"
+#~ msgstr "Verkaufspreis"
+
+#~ msgid "Key type"
+#~ msgstr "Schlüsseltyp"
+
+#~ msgid "affiliate-toolkit ID (recommended)"
+#~ msgstr "affiliate-toolkit ID (empfohlen)"
+
+#~ msgid "Replace IDs in WooCommerce product on save"
+#~ msgstr ""
+#~ "Ersetze die IDs in WooCommerce-Produkten beim Speichern (EAN durch ID "
+#~ "bzw. umgekehrt)"
+
+#~ msgid "Custom EAN field"
+#~ msgstr "Benutzerdefiniertes EAN-Feld"
+
+#~ msgid "Shop Button Target"
+#~ msgstr "Shop-Button Ziel"
+
+#~ msgid "Product image"
+#~ msgstr "Produktbild"
+
+#~ msgid "Image gallery"
+#~ msgstr "Bildergalerie"
+
+#~ msgid "No images from plugin"
+#~ msgstr "Kein Bilder über das Plugin importieren"
+
+#~ msgid "Use external images (experimental)"
+#~ msgstr "Externe Bilder verwenden (experimentell)"
+
+#~ msgid "Import images"
+#~ msgstr "Bilder importieren"
+
+#~ msgid "Export description"
+#~ msgstr "Beschreibung exportieren"
+
+#~ msgid "Export short description"
+#~ msgstr "Kurzbeschreibung exportieren"
+
+#~ msgid "Show product"
+#~ msgstr "Produkt anzeigen"
+
+#~ msgid "Price Compare"
+#~ msgstr "Preisvergleich"
+
+#~ msgid "Pricecompare is not available."
+#~ msgstr "Preisvergleich ist nicht verfügbar."
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Offer"
+#~ msgstr "Angebot"
+
+#~ msgid "Cart"
+#~ msgstr "Warenkorb"
+
+#~ msgid "Customer review"
+#~ msgstr "Kundenbewertung"
+
+#~ msgid "Textlink"
+#~ msgstr "Textlink"
+
+#~ msgid "Affili.net API"
+#~ msgstr "Affili.net API"
+
+#~ msgid "Publisher-ID"
+#~ msgstr "Publisher-ID"
+
+#~ msgid "Webservice-Password:"
+#~ msgstr "Webservice-Passwort:"
+
+#~ msgid "Price-Ascending"
+#~ msgstr "Preis aufsteigend"
+
+#~ msgid "Price-Descending"
+#~ msgstr "Preis absteigend"
+
+#~ msgid "Title-Ascending"
+#~ msgstr "Titel aufsteigend"
+
+#~ msgid "Title-Descending"
+#~ msgstr "Titel absteigend"
+
+#~ msgid "Rank-Ascending"
+#~ msgstr "Rang aufsteigend"
+
+#~ msgid "Rank-Descending"
+#~ msgstr "Rang absteigend"
+
+#~ msgid "Sort by"
+#~ msgstr "Sortieren nach"
+
+#~ msgid "Sort Order"
+#~ msgstr "Sortierreihenfolge"
+
+#~ msgid "Number"
+#~ msgstr "Nummer"
+
+#~ msgid "Product url"
+#~ msgstr "Produkt-URL"
+
+#~ msgid "Image url (small)"
+#~ msgstr "Bild URL (klein)"
+
+#~ msgid "Image url"
+#~ msgstr "Bild-URL"
+
+#~ msgid "ShippingCosts"
+#~ msgstr "Versandkosten"
+
+#~ msgid "Column "
+#~ msgstr "Spalte"
+
+#~ msgid "CSV File"
+#~ msgstr "CSV-Datei"
+
+#~ msgid "The PHP setting \"allow_url_fopen\" is enabled. Everything OK."
+#~ msgstr "Die PHP-Einstellung \"allow_url_fopen\" ist aktiviert. Alles OK."
+
+#~ msgid ""
+#~ "The PHP setting \"allow_url_fopen\" should be enabled. This feature is "
+#~ "recommended for reading large files."
+#~ msgstr ""
+#~ "Die PHP-Einstellung \"allow_url_fopen\" sollte aktiviert werden. Diese "
+#~ "Funktion wird für das Lesen von großen Dateien empfohlen."
+
+#~ msgid "CSV-Url"
+#~ msgstr "CSV-URL"
+
+#~ msgid "Vorlage"
+#~ msgstr "Vorlage"
+
+#~ msgid "Manual"
+#~ msgstr "Manuell"
+
+#~ msgid "Column delimiter"
+#~ msgstr "Spaltentrennzeichen"
+
+#~ msgid "Tabstopp"
+#~ msgstr "Tabstopp"
+
+#~ msgid "Pipe (|)"
+#~ msgstr "Senkrechter Strich (|)"
+
+#~ msgid "Carret (^)"
+#~ msgstr "Caret-Zeichen (^)"
+
+#~ msgid "Comma (,)"
+#~ msgstr "Komma (,)"
+
+#~ msgid "Semicolon (;)"
+#~ msgstr "Semikolon (;)"
+
+#~ msgid "First line is header"
+#~ msgstr "Erste Zeile ist Spaltenkopf"
+
+#~ msgid "End of line"
+#~ msgstr "Ende der Zeile"
+
+#~ msgid "CarriageReturn/LineFeed (CR/LF)"
+#~ msgstr "CarriageReturn/LineFeed (CR/LF)"
+
+#~ msgid "LineFeed (LF)"
+#~ msgstr "LineFeed (LF)"
+
+#~ msgid "Character string"
+#~ msgstr "Zeichenfolge"
+
+#~ msgid "Double quotes"
+#~ msgstr "Doppelte Anführungszeichen"
+
+#~ msgid "Single quotes"
+#~ msgstr "Einfache Anführungszeichen"
+
+#~ msgid "Import CSV now"
+#~ msgstr "CSV-Datei jetzt importieren"
+
+#~ msgid "eBay Website"
+#~ msgstr "eBay Webseite"
+
+#~ msgid "eBay Germany"
+#~ msgstr "eBay Deutschland"
+
+#~ msgid "eBay Austria"
+#~ msgstr "eBay Österreich"
+
+#~ msgid "eBay United States"
+#~ msgstr "eBay Vereinigte Staaten"
+
+#~ msgid "eBay Canada (English)"
+#~ msgstr "eBay Kanada (Englisch)"
+
+#~ msgid "eBay UK"
+#~ msgstr "eBay Vereinigtes Königreich"
+
+#~ msgid "eBay Australia"
+#~ msgstr "eBay Austrailien"
+
+#~ msgid "eBay Belgium (French)"
+#~ msgstr "eBay Belgien (Französisch)"
+
+#~ msgid "eBay France"
+#~ msgstr "eBay Frankreich"
+
+#~ msgid "eBay Motors"
+#~ msgstr "eBay Motor"
+
+#~ msgid "eBay Italy"
+#~ msgstr "eBay Italien"
+
+#~ msgid "eBay Belgium (Dutch)"
+#~ msgstr "eBay Belgien (Dutch)"
+
+#~ msgid "eBay Netherlands"
+#~ msgstr "eBay Niederlande"
+
+#~ msgid "eBay Spain"
+#~ msgstr "eBay Spanien"
+
+#~ msgid "eBay Switzerland"
+#~ msgstr "eBay Schweiz"
+
+#~ msgid "eBay Hong Kong"
+#~ msgstr "eBay Hongkong"
+
+#~ msgid "eBay India"
+#~ msgstr "eBay Indien"
+
+#~ msgid "eBay Ireland"
+#~ msgstr "eBay Irland"
+
+#~ msgid "eBay Malaysia"
+#~ msgstr "eBay Malaysia"
+
+#~ msgid "eBay Canada (French)"
+#~ msgstr "eBay Kanada (Französisch)"
+
+#~ msgid "eBay Philippines"
+#~ msgstr "eBay Philippinen"
+
+#~ msgid "eBay Poland"
+#~ msgstr "eBay Polen"
+
+#~ msgid "eBay Singapore"
+#~ msgstr "eBay Singapur"
+
+#~ msgid "Campaign ID"
+#~ msgstr "Kampagnen-ID"
+
+#~ msgid "Load customer reviews, availability and shipping costs"
+#~ msgstr "Lade Kundenbewertungen, Verfügbarkeit und Lieferkosten"
+
+#~ msgid "Delivery in %s working days after receipt of payment"
+#~ msgstr "Lieferung in Tagen: %s"
+
+#~ msgid "Shipping to: %s"
+#~ msgstr "Versand nach: %s"
+
+#~ msgid "BestMatch"
+#~ msgstr "Bester Treffer"
+
+#~ msgid "BidCountFewest"
+#~ msgstr "Wenige Gebote zuerst"
+
+#~ msgid "BidCountMost"
+#~ msgstr "Meisten Gebote zuerst"
+
+#~ msgid "CurrentPriceHighest"
+#~ msgstr "Preis (absteigend)"
+
+#~ msgid "EndTimeSoonest"
+#~ msgstr "Endzeit (aufsteigend)"
+
+#~ msgid "StartTimeNewest"
+#~ msgstr "Startzeit (Neuste zuerst)"
+
+#~ msgid "PricePlusShippingHighest"
+#~ msgstr "Preis+Versand (absteigend)"
+
+#~ msgid "PricePlusShippingLowest"
+#~ msgstr "Preis+Versand (aufsteigend)"
+
+#~ msgid "AvailableTo"
+#~ msgstr "Verfügbar für"
+
+#~ msgid "BestOfferOnly"
+#~ msgstr "Nur bestes Angebot"
+
+#~ msgid "EndTimeFrom"
+#~ msgstr "Endzeit von"
+
+#~ msgid "EndTimeTo"
+#~ msgstr "Endzeit bis"
+
+#~ msgid "ExcludeCategory"
+#~ msgstr "Kategorie ausschließen"
+
+#~ msgid "ExcludeSeller"
+#~ msgstr "Verkäufer ausschließen"
+
+#~ msgid "FeaturedOnly"
+#~ msgstr "Nur Hervorgehobene"
+
+#~ msgid "FreeShippingOnly"
+#~ msgstr "nur kostenlose Lieferung"
+
+#~ msgid "HideDuplicateItems"
+#~ msgstr "Duplikate verhindern"
+
+#~ msgid "MaxHandlingTime"
+#~ msgstr "Maximale Versandtage"
+
+#~ msgid "MaxPrice"
+#~ msgstr "Maximaler Preis"
+
+#~ msgid "MinPrice"
+#~ msgstr "Minimaler Preis"
+
+#~ msgid "MinQuantity"
+#~ msgstr "Minimale Menge"
+
+#~ msgid "Seller"
+#~ msgstr "Verkäufer"
+
+#~ msgid "TopRatedSellerOnly"
+#~ msgstr "Nur bestbewertete Verkäufer"
+
+#~ msgid "Logo url:"
+#~ msgstr "Logo (URL)"
+
+#~ msgid "Small Logo url:"
+#~ msgstr "Small Logo (URL)"
+
+#~ msgid "Zanox API"
+#~ msgstr "Zanox API"
+
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Secret Key:"
+#~ msgstr "Secret Key"
+
+#~ msgid "Delivery in %s working days"
+#~ msgstr "Lieferung in Tagen: %s"
+
+#~ msgid "Use external main image (recommended)"
+#~ msgstr "Beitragsbild extern einbinden (empfohlen)"
+
+#~ msgid "Use image gallery (experimental)"
+#~ msgstr "Bildergalerie verwenden (experimental)"
+
+#~ msgid "Logfile"
+#~ msgstr "Logdatei"
+
+#~ msgid "Import main image as post thumbnail"
+#~ msgstr "Importiere das Hauptbild als Beitragsbild"
+
+#~ msgid "Buy now!"
+#~ msgstr "Jetzt kaufen!"
+
+#~ msgid "PHP SOAP extension is not loaded."
+#~ msgstr "PHP SOAP Extension ist nicht geladen."
+
+#~ msgid "Product already exists."
+#~ msgstr "Produkt existiert bereits."
+
+#~ msgid ""
+#~ "This list was created with <a href=\"http://www.affiliate-toolkit.com\" "
+#~ "title=\"Affiliate Toolkit\">Affiliate Toolkit</a>."
+#~ msgstr ""
+#~ "Diese Liste wurde mit dem <a href=\"http://www.affiliate-toolkit.com\" "
+#~ "title=\"Affiliate Toolkit\">Affiliate Toolkit</a> erstellt."
+
+#~ msgid "DeliveryTime"
+#~ msgstr "Lieferzeit"
+
+#~ msgid "Free text 1"
+#~ msgstr "Freitext 1"
+
+#~ msgid "Free text 2"
+#~ msgstr "Freitext 2"
+
+#~ msgid "Free text 3"
+#~ msgstr "Freitext 3"
+
+#~ msgid "Free text 4"
+#~ msgstr "Freitext 4"
+
+#~ msgid "Combine Amazon and Marketplace"
+#~ msgstr "Amazon und Marktplatz (kombiniert)"
+
+#~ msgid "Activate WooCommerce mode"
+#~ msgstr "WooCommerce-Modus aktivieren"
+
+#~ msgid "Import Tools"
+#~ msgstr "Import-Werkzeug"
+
+#~ msgid "Compatibility mode"
+#~ msgstr "Kompatibilitätsmodus"
+
+#~ msgid "Non-repeating"
+#~ msgstr "Nicht wiederholend"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "<a href=\"%s\" target=\"_blank\">Edit post</a>"
+#~ msgstr "<a href=\"%s\" target=\"_blank\">Beitrag bearbeiten</a>"
+
+#~ msgid "Affiliate Toolkit Shortcodes"
+#~ msgstr "Affiliate Toolkit Shortcodes"
+
+#~ msgid ""
+#~ "<a href=\"%link_load-amazon-customer-reviews%\" target=\"_blank\">More "
+#~ "information</a>"
+#~ msgstr ""
+#~ "<a href=\"%link_load-amazon-customer-reviews%\" target=\"_blank\">Mehr "
+#~ "Informationen</a>"
+
+#~ msgid "Enable \"add to cart\""
+#~ msgstr "\"In den Warenkorb\" aktivieren"
+
+#~ msgid "Amazon credentials empty"
+#~ msgstr "Amazon Zugangsdaten wurden nicht gesetzt."
+
+#~ msgid "Category - New Releases (US locale only)"
+#~ msgstr "Kategorie - Neuerscheinungen (nur auf Amazon.com)"
+
+#~ msgid "Credentials empty"
+#~ msgstr "Zugangsdaten wurden nicht gesetzt."
+
+#~ msgid "list has no results"
+#~ msgstr "Liste ist leer"
+
+#~ msgid "Amazon ASIN"
+#~ msgstr "Amazon ASIN"
+
+#~ msgid "Amazon Status"
+#~ msgstr "Amazon Status"
+
+#~ msgid "Override button style"
+#~ msgstr "Buttonstyle übersteuern"
+
+#~ msgid "It is my review"
+#~ msgstr "Das ist meine Bewertung"
+
+#~ msgid "Thumbnail Images (URL)"
+#~ msgstr "Bilder Thumbnails (URL)"
+
+#~ msgid "Products "
+#~ msgstr "Produkte"
+
+#~ msgid "Template Preview"
+#~ msgstr "Vorlagenvorschau"
+
+#~ msgid "Do not miss this offer!"
+#~ msgstr "Diese Angebote solltest du nicht verpassen!"
+
+#~ msgid "Exit Popup"
+#~ msgstr "Exit Popup"
+
+#~ msgid "Affiliate Toolkit - Exit Popup Settings"
+#~ msgstr "Affiliate Toolkit - Exit Popup Einstellungen"
+
+#~ msgid "Settings for Exit Popup"
+#~ msgstr "Einstellungen für Exit Popup"
+
+#~ msgid "Show Exit Popup"
+#~ msgstr "Exit Popup anzeigen"
+
+#~ msgid ""
+#~ "<a href=\"%link_exit-popup-amazon%\" target=\"_blank\">Important "
+#~ "Information</a>"
+#~ msgstr ""
+#~ "<a href=\"%link_exit-popup-amazon%\" target=\"_blank\">Wichtige "
+#~ "Informationen</a>"
+
+#~ msgid "Limit List"
+#~ msgstr "Listenlimit"
+
+#~ msgid "Cookie Days"
+#~ msgstr "Cookiedauer (Tage)"
+
+#~ msgid "Size (width x height)"
+#~ msgstr "Popup Größe (Breite x Höhe)"
+
+#~ msgid ""
+#~ "Please enter a license key for Affiliate Toolkit. <a href=\"admin.php?"
+#~ "page=ATKP_affiliate_toolkit-plugin\">Enter License Key</a> - <a href="
+#~ "\"%link_get-license-key%\" target=\"_blank\">More Information</a>"
+#~ msgstr ""
+#~ "Bitte gib deinen Lizenzschlüssel für das Affiliate Toolkit ein. <a href="
+#~ "\"admin.php?page=ATKP_affiliate_toolkit-plugin\">Lizenzschlüssel "
+#~ "eingeben</a> - <a href=\"%link_get-license-key%\" target=\"_blank\">Mehr "
+#~ "Informationen</a>"
+
+#~ msgid ""
+#~ "Please enter a license key for Affiliate Toolkit. - <a href=\"%link_get-"
+#~ "license-key%\" target=\"_blank\">More Information</a>"
+#~ msgstr ""
+#~ "Bitte gib einen Lizenzschlüssel für das Affiliate Toolkit ein. - <a href="
+#~ "\"%link_get-license-key%\" target=\"_blank\">Mehr Informationen</a>"
+
+#~ msgid "Check & Notification"
+#~ msgstr "Überprüfung & Benachrichtigung"
+
+#~ msgid "Cache & License"
+#~ msgstr "Cache & Lizenz"
+
+#~ msgid "Toolkit License Key"
+#~ msgstr "Toolkit Lizenzschlüssel"
+
+#~ msgid "Affiliate Toolkit - Bestseller Settings"
+#~ msgstr "Affiliate Toolkit - Bestseller Einstellungen"
+
+#~ msgid ""
+#~ "You find help on this <a href=\"%link_toolkit-bestseller%\" target="
+#~ "\"_blank\">page</a>."
+#~ msgstr ""
+#~ "Hilfe zu diesem Thema findest du auf dieser <a href=\"%link_toolkit-"
+#~ "bestseller%\" target=\"_blank\">Seite</a>."
+
+#~ msgid "%s new from %s"
+#~ msgstr "%s neu ab %s"
